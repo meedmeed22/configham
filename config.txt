@@ -1,4 +1,4 @@
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443#%F0%9F%A6%8423@oneclickvpnkeys
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443#%F0%9F%A6%8423@oneclickvpnkeys 
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%40vpnbaz%20%F0%9F%8C%B4
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#@V2raysCollector
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
