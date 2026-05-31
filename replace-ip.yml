@@ -3,63 +3,64 @@ name: Auto Update Mobile Config
 on:
   push:
     paths:
-      - 'config.txt'  # فقط زمانی اجرا شود که config.txt تغییر کرده باشد
+      - 'config.txt'
     branches:
-      - main          # یا هر نام برنچ اصلی شما (مثلاً master)
+      - main
+  workflow_dispatch:
+
+# راه‌حل اصلی: تنظیم دسترسی کامل
+permissions:
+  contents: write
+  actions: write
 
 jobs:
   update-mobile-config:
     runs-on: ubuntu-latest
     
-    # مهم: جلوگیری از اجرای مکرر و حلقه بی‌نهایت
     if: github.event.head_commit.message != 'Update mobile config automatically'
-    
+  
     steps:
-      # دریافت کدهای مخزن
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # دریافت تاریخچه کامل برای جلوگیری از خطا
+          fetch-depth: 0
+          # استفاده از GITHUB_TOKEN با دسترسی مناسب
+          token: ${{ secrets.GITHUB_TOKEN }}
       
-      # خواندن IP از متغیر مخفی (اختیاری اما امن‌تر)
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+      
       - name: Get custom IP
         id: get-ip
         run: |
-          # روش 1: استفاده از GitHub Secret (توصیه می‌شود)
           if [ -n "${{ secrets.CUSTOM_IP }}" ]; then
             echo "ip=${{ secrets.CUSTOM_IP }}" >> $GITHUB_OUTPUT
           else
-            # روش 2: استفاده از IP پیش‌فرض (تغییر دهید)
             echo "ip=192.168.1.239" >> $GITHUB_OUTPUT
           fi
       
-      # ساخت configmobile.txt با IP جدید
       - name: Create configmobile.txt
         run: |
-          # بررسی وجود فایل config.txt
           if [ ! -f "config.txt" ]; then
             echo "⚠️ Warning: config.txt not found!"
             exit 0
           fi
           
-          # جایگزینی 127.0.0.1 با IP دلخواه
           sed 's/127\.0\.0\.1/${{ steps.get-ip.outputs.ip }}/g' config.txt > configmobile.txt
           
-          # نمایش پیام موفقیت
           echo "✅ configmobile.txt updated with IP: ${{ steps.get-ip.outputs.ip }}"
-          
-          # نمایش آمار تغییرات
-          echo "--- Changes summary ---"
           echo "Original lines in config.txt: $(wc -l < config.txt)"
           echo "Lines in new configmobile.txt: $(wc -l < configmobile.txt)"
       
-      # ذخیره خودکار تغییرات در مخزن
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update mobile config automatically"
           file_pattern: configmobile.txt
-          branch: ${{ github.ref_name }}
+          branch: main
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
           commit_author: GitHub Actions Bot <actions@github.com>
+          push_options: '--force'
