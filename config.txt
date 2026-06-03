@@ -1,21 +1,21 @@
 trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#@proxy_kafee
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%40vpnbaz%20%F0%9F%8C%B4
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://0jvOqSPtoC@127.0.0.1:40443?path=/?ed=2048&security=tls&fp=chrome&type=ws&sni=da.aananas.ir#⚡@V2ray_official
-trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#10 🇩🇪 @V2ngFast
-trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev#4 🇩🇪 @V2ngFast
-trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev#8 🇩🇪 @V2ngFast
-trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev#2 🇩🇪 @V2ngFast
+trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#10
+trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev#4
+trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev#8
+trojan://1111@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev#2
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@127.0.0.1:40443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#@KAFING_2
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?Telegram=&path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#kurdconfig
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇩🇪All¹² | @meliproxyy
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇩🇪All⁴ | @meliproxyy
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#@hi_proxy_iran :👈کانال تلگرام
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇩🇪All¹²
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇩🇪All⁴
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#@hi_proxy_iran
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#@config_NG
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#@icv2ray
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#@meliproxyy
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#@musiclovers85جوین بدید
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#@musiclovers85جوین
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#@sogoandfuckyourlove
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#T.me/CONFiGiR98
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#https://t.me/Pirimod
@@ -23,62 +23,61 @@ trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&secu
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#kurdconfig
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#vmesskhodam
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇬🇧@FreakConfig
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇸🇬
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#TEL;Father_vpn¹
-trojan://7964@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev#6 🇩🇪 @V2ngFast
+trojan://7964@127.0.0.1:40443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev#6
+trojan://127.0.0.1:40443
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@127.0.0.1:40443?security=tls&sni=172.237.145.189#@VPN_PASARGAD
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@127.0.0.1:40443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#@WetConfig🎱
 trojan://127.0.0.1:40443?type=ws&security=tls&path=/&host=cloud.magicservice.top&sni=cloud.magicservice.top&alpn=h2%2/1.1&fp=chrome&allowInsecure=0#🦉@FreeConfigForYou
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@127.0.0.1:40443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.mesaly.click#@appsooner کانال تلگرام 🕊️
-trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@127.0.0.1:40443?type=tcp&security=tls&headerType=none&sni=www.registry-monitor.click&fp=chrome&allowInsecure=1#@v2rayconfigamir 3497
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@127.0.0.1:40443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.mesaly.click#@appsooner
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@127.0.0.1:40443?type=tcp&security=tls&headerType=none&sni=www.registry-monitor.click&fp=chrome&allowInsecure=1#@v2rayconfigamir
 trojan://Config0plus@127.0.0.1:40443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#⚡@V2ray_official
 trojan://Config0plus@127.0.0.1:40443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#kurdconfig
 trojan://Config0plus@127.0.0.1:40443?path=/in-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&type=ws&sni=investors.spotify.com.cyylr.eu.cc#⚡@V2ray_official
 trojan://Config0plus@127.0.0.1:40443?path=/in-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#filembad-36
-trojan://Config0plus@127.0.0.1:40443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#[69801] - Telegram : @V2All
-trojan://Config0plus@127.0.0.1:40443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#⚡@V2ray_official
+trojan://Config0plus@127.0.0.1:40443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#[69801]
 trojan://E_hUHrn0+6VeZO%3Dv9%3DfLgoPDXZWGfcrejg@127.0.0.1:40443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.19.11#@vmesskhodam
 trojan://GdL9nNA8km@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ssss2.avaaal.ir#@VPN_PASARGAD
-trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@127.0.0.1:40443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#@v2rayconfigamir 6758
+trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@127.0.0.1:40443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#@v2rayconfigamir
 trojan://JPZp5yhQpQ@127.0.0.1:40443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@VPN_PASARGAD
 trojan://Mitivpn@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn²
 trojan://Mitivpn@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
 trojan://Mitivpn@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
 trojan://Mitivpn@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn⁸
-trojan://VPTFm%3DoZ++SuNT+jMRqGZqrAnWq-r8KJyY@127.0.0.1:40443?security=tls&sni=172.104.237.100&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#hope of freedom - @anotherme_night
-trojan://Z3_%3Dewk_+l1U4OT4usQ5%3Do2vFfk95yfy1V@127.0.0.1:40443?security=tls&insecure=1&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.selectnet.click#🌾 @ProxyVPN11
+trojan://VPTFm%3DoZ++SuNT+jMRqGZqrAnWq-r8KJyY@127.0.0.1:40443?security=tls&sni=172.104.237.100&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#hope
+trojan://Z3_%3Dewk_+l1U4OT4usQ5%3Do2vFfk95yfy1V@127.0.0.1:40443?security=tls&insecure=1&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.selectnet.click#🌾
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@127.0.0.1:40443?host=s.blibli.com.cyylr.eu.cc&path=/ae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#🚘80@oneclickvpnkeys
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@127.0.0.1:40443?path=/ae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#@Net2ray 🔥²
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@127.0.0.1:40443?path=/ae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#@Net2ray
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@127.0.0.1:40443?path=/ae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#https://t.me/v2raynplus
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@127.0.0.1:40443?path=/ae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#vmessorg
-trojan://bX_lNHWoW6ywq82mI%3DKUr+8i__VSp0Hs_E@127.0.0.1:40443?security=tls&headerType=none&fp=chrome&allowinsecure=0&type=tcp#🇩🇪All⁸ | @meliproxyy
+trojan://bX_lNHWoW6ywq82mI%3DKUr+8i__VSp0Hs_E@127.0.0.1:40443?security=tls&headerType=none&fp=chrome&allowinsecure=0&type=tcp#🇩🇪All⁸
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@127.0.0.1:40443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#@v2reya88
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@127.0.0.1:40443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#[69802] - Telegram : @V2All
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@127.0.0.1:40443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#[69802]
 trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@127.0.0.1:40443?host=blog.webex.com.cyylr.eu.cc&path=/in-do&sni=blog.webex.com.cyylr.eu.cc&type=ws#🚘58@oneclickvpnkeys
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@127.0.0.1:40443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
-trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@127.0.0.1:40443?security=tls&headerType=none&type=tcp&sni=empty.node#🟢 @VPNshop666
-trojan://127.0.0.1:40443#YqsV4X@212.193.18.121:21936?fp=chrome&sni=singingrobot.click
+trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@127.0.0.1:40443?security=tls&headerType=none&type=tcp&sni=empty.node#🟢
+trojan://127.0.0.1:40443#YqsV4X@212.193.18.121:21936?fp=chrome&sni=singingrobot.click#🚘95@oneclickvpnkeys
 trojan://humanity@127.0.0.1:40443?Telegram=&path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#kurdconfig
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@config_NG
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@v2raybaaz
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@brilliantgift-30GB
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Filtershekan_channel |5
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Filtershekan_channel
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@mtproto_proserver
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🎏
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@bored_vpn
-trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 t.me/Natrixo AA
-trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 t.me/Natrixo AA
-trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 t.me/Natrixo AA
+trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷
+trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷
+trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#⚡@V2ray_official
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🇨🇦45416 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🇨🇦45416
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#filembad-43
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷
 trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🚀@V2ray_official
 trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com@freev2configs
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#[69814] - Telegram : @V2All
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#[69814]
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#filembad-46
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#⚡@V2ray_official
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🚀@V2ray_official
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com@freev2configs
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🚀@V2ray_official
@@ -91,24 +90,23 @@ trojan://humanity@127.0.0.1:40443?path=/assignment?TELEGRAM--KANAL--UnNurmal--Un
 trojan://humanity@127.0.0.1:40443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com@freev2configs
 trojan://humanity@127.0.0.1:40443?path=assignment&security=tls&type=ws&sni=www.ignitelimit.com#🚀@V2ray_official
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#@VPN_PASARGAD
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#[69779] - Telegram : @V2All
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#[69779]
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayngzendegimamad🕊️
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@v2rayngzendegimamad🕊️
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rayngzendegimamad🕊️
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#Free 74 @Outline_ir
-trojan://humanity@127.0.0.1:40443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@armindone👈چنل تلگراممون
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#@VPN_PASARGAD
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#همه نت ها @ProxyEliteVPN
-trojan://humanity@127.0.0.1:40443/?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#🇺🇸 آمریکا | https://t.me/FREECONFIGSPLUS ✨
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#Free
+trojan://humanity@127.0.0.1:40443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@armindone👈چنل
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#همه
+trojan://humanity@127.0.0.1:40443/?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#🇺🇸
 trojan://humanity@127.0.0.1:40443?Telegram=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#kurdconfig
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@internet_azad_2026  ⭐️
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Channel id: @internet_azad_2026 🇺🇸
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@internet_azad_2026
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Channel
 trojan://humanity@127.0.0.1:40443?Telegram=&Telegram=&path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#kurdconfig
 trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#7https://t.me/ConfigX2ray
 trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#11https://t.me/ConfigX2ray
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@hi_proxy_iran :👈کانال تلگرام
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Proxy_Vpney (6)
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@hi_proxy_iran
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Proxy_Vpney
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@RzChanel1
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@YekeTarikh
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@bored_vpn
@@ -119,18 +117,18 @@ trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&in
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Mix--@V2rayAlpha--1
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2RFA
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2rayng_Fast
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#مخابرات @ProxyEliteVPN
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🕊️Tel: @Proxy_Vpney (1)
-trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#.2. WiFi 🍀 @RzChanel1
-trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#[69791] - Telegram : @V2All
-trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#🇸🇨45474 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#[69778] - Telegram : @V2All
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@v2rayNplus |🇺🇸
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#مخابرات
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🕊️Tel:
+trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#.2.
+trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#[69791]
+trojan://humanity@127.0.0.1:40443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&allowInsecure=0#🇸🇨45474
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#[69778]
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@v2rayNplus
 trojan://humanity@127.0.0.1:40443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&type=ws#2🚘@oneclickvpnkeys
 trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@GozargahAzad|🏁
-trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&fp=chrome&allowInsecure=0&type=ws&path=/assignment#🇳🇱 t.me/Natrixo AA
+trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&fp=chrome&allowInsecure=0&type=ws&path=/assignment#🇳🇱
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:75.27ms
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@127.0.0.1:40443?alpn=http/1.1#🚘100@oneclickvpnkeys
 trojan://mSzFVhUczD@127.0.0.1:40443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#@SheriffNet
@@ -139,13 +137,13 @@ trojan://mdhwoon0a01p31xn@127.0.0.1:40443?mode=auto&path=/Kose-nanat-decoder&sec
 trojan://mitivpn@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁴
 trojan://mitivpn@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁹
 trojan://mitivpn@127.0.0.1:40443?Telegram=&type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&host=mitivpn.ws-ws-ws.workers.dev&sni=mitivpn.ws-ws-ws.workers.dev&alpn=http/1.1&fp=chrome&allowInsecure=1#kurdconfig
-trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=0&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.linkman1.ir#@best_internet_iran⚜️تلگرام‌/روبیکا | 🇺🇸
+trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=0&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.linkman1.ir#@best_internet_iran⚜️تلگرام‌/روبیکا
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=h2&host=dash.linko1.ir&fp=chrome&type=ws&sni=dash.linko1.ir#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
-trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&allowinsecure=1&type=ws&sni=cdn.linkman1.ir
+trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&allowinsecure=1&type=ws&sni=cdn.linkman1.ir##🦉@FreeConfigForYou
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#@outline_ir
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#🚀@V2ray_official
-trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=mitivpn.ws-ws-ws.workers.dev&fp=chrome&type=ws&sni=mitivpn.ws-ws-ws.workers.dev#@HiByeVPNN 🔥✅❤️‍🔥
-trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=nl.linko1.ir&fp=chrome&type=ws&sni=nl.linko1.ir#@hi_proxy_iran :👈کانال تلگرام
+trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=mitivpn.ws-ws-ws.workers.dev&fp=chrome&type=ws&sni=mitivpn.ws-ws-ws.workers.dev#@HiByeVPNN
+trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=nl.linko1.ir&fp=chrome&type=ws&sni=nl.linko1.ir#@hi_proxy_iran
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#@outline_ir
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#🚀@V2ray_official
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=0&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.linkman1.ir#@icv2ray
@@ -154,7 +152,7 @@ trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=0&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.linkman1.ir#@icv2ray
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=404.mitii33.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=404.mitii33.workers.dev#TEL;Father_vpn
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#@icv2ray
-trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#Free 64 @Outline_ir
+trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#Free
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#TEL;Father_vpn
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.ws-ws-ws.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=mitivpn.ws-ws-ws.workers.dev#TEL;Father_vpn
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=nl.linko1.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl.linko1.ir#@meliproxyy
@@ -163,27 +161,26 @@ trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/
 trojan://mitivpn@127.0.0.1:40443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&sni=cdn.de.linko1.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#@config_NG
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=0&host=miti1234.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@NETMelliAnti
 trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#Telegram:@mtproto_proserver
-trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#@internet_azad_2026 🎇
+trojan://mitivpn@127.0.0.1:40443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#@internet_azad_2026
 trojan://mitivpn@127.0.0.1:40443?type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&host=mitivpn.global.ssl.fastly.net&sni=speedtest.net&alpn=http/1.1&fp=chrome&allowInsecure=1#mci@v2rayNGcloud
-trojan://mitivpn@127.0.0.1:40443?path=/&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#@vpnbaz 🏴
+trojan://mitivpn@127.0.0.1:40443?path=/&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#@vpnbaz
 trojan://mitivpn@127.0.0.1:40443?path=/?ed&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#powerro
-trojan://n6avKI&%5ELz2Oh0%3BS@127.0.0.1:40443?path=/eyJqdW5rIjoiZlllZjFjbzFKdG56IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=sweet-cloud-c500.meysam-p12345.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=SweET-CLOud-c500.MeYsAm-p12345.workErS.DEV#@Proxy_Vpney (3)
+trojan://n6avKI&%5ELz2Oh0%3BS@127.0.0.1:40443?path=/eyJqdW5rIjoiZlllZjFjbzFKdG56IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=sweet-cloud-c500.meysam-p12345.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=SweET-CLOud-c500.MeYsAm-p12345.workErS.DEV#@Proxy_Vpney
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&headerType=none&type=tcp#@bored_vpn
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&headerType=none&type=tcp#@internet_azad_2026
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@filtershekan_channel |6
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@filtershekan_channel
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@mehrosaboran
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@127.0.0.1:40443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayngzendegimamad🕊️
 trojan://rQZjCMGZEN@127.0.0.1:40443?path=/&security=tls&alpn=h2,http/1.1&host=cloud.magicservice.top&fp=chrome&type=ws&sni=cloud.magicservice.top#@outline_ir
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@127.0.0.1:40443/?type=tcp&security=tls&sni=172.236.220.10&fp=chrome#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@127.0.0.1:40443/?type=tcp&security=tls&sni=172.236.220.10&fp=chrome#🇩🇪
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@127.0.0.1:40443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@127.0.0.1:40443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#kurdconfig
 trojan://uluy0rcffb6kyiss@127.0.0.1:40443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=t3st1.n4d3r.org#@ProxyEliteVPN
 trojan://ylRh2jfDft@127.0.0.1:40443?path=/?ed&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=da.aananas.ir#@VPN_PASARGAD
 trojan://ypa8jqVoqQ@127.0.0.1:40443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#@VPN_PASARGAD
-trojan://ypa8jqVoqQ@127.0.0.1:40443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@v2raybaaz (4)
-trojan://ypa8jqVoqQ@127.0.0.1:40443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@v2raybaaz (5)
+trojan://ypa8jqVoqQ@127.0.0.1:40443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@v2raybaaz
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/%3Fproxyip%3Dip.111000.de5.net%253A443&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=1&amp%3Bhost=sni.111000.dynv6.net&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=sni.111000.dynv6.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40father_vpn%20%231
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@127.0.0.1:40443?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40free4allvpn%20%231
 trojan://8r%3C%5B9%27l6hAO%238ZQi@127.0.0.1:40443?path=/tr&amp%3Bsecurity=tls&amp%3Binsecure=1&amp%3Bhost=Koma-YT.PAGeS.Dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40spikevpn%20%231
@@ -210,10 +207,8 @@ trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%3E%3E%40FreakConfig%3A%3AFR
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@127.0.0.1:40443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@127.0.0.1:40443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -221,17 +216,11 @@ trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&hos
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
 trojan://humanity@127.0.0.1:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40configshub2%3A%3APL
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://humanity@127.0.0.1:40443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@127.0.0.1:40443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@127.0.0.1:40443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@127.0.0.1:40443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
