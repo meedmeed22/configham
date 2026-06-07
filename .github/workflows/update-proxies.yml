@@ -1,0 +1,32 @@
+name: Update Optimized Proxy List
+
+on:
+  schedule:
+    - cron: '*/360 * * * *'  # هر 6 ساعت یکبار
+  workflow_dispatch:  # قابلیت اجرای دستی
+
+jobs:
+  update-proxies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # اجازه نوشتن در مخزن
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run optimization script
+        run: |
+          python scripts/optimize-proxies.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add optimized-proxies.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update optimized proxy list"
+          git push
