@@ -2,7 +2,7 @@ name: Update Optimized Proxy List
 
 on:
   schedule:
-    - cron: '*/360 * * * *'
+    - cron: '*/60 * * * *'
   workflow_dispatch:
 
 jobs:
