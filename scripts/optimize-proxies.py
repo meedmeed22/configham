@@ -2,7 +2,7 @@ import re
 import requests
 from urllib.parse import quote
 
-SOURCE_URL = "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/countries/US/data.txt"
+SOURCE_URL = "https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/socks5/data.txt"
 OUTPUT_FILE = "optimized-proxies.txt"
 TARGET_FORMAT = "socks://Og==@{host}:{port}#{host}%3A{port}"
 
