@@ -19,52 +19,50 @@ jobs:
 
       - name: Create Python script
         run: |
-          cat > scripts/optimize-proxies.py << 'EOF'
-import re
-import urllib.request
-from urllib.parse import quote
-
-SOURCE_URL = "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/socks5/data.txt"
-OUTPUT_FILE = "optimized-proxies.txt"
-TARGET_FORMAT = "socks://Og==@{host}:{port}#{host}%3A{port}"
-
-def fetch_proxies():
-    with urllib.request.urlopen(SOURCE_URL, timeout=30) as response:
-        return response.read().decode('utf-8').splitlines()
-
-def parse_socks5_line(line):
-    match = re.match(r'socks5://([^:]+):(\d+)', line.strip())
-    if match:
-        return match.groups()
-    return None
-
-def convert_to_target(host, port):
-    return TARGET_FORMAT.format(host=host, port=port)
-
-def main():
-    print("Fetching proxies from source...")
-    raw_lines = fetch_proxies()
-    proxies_set = set()
-    converted_lines = []
-
-    for line in raw_lines:
-        parsed = parse_socks5_line(line)
-        if not parsed:
-            continue
-        host, port = parsed
-        if (host, port) in proxies_set:
-            continue
-        proxies_set.add((host, port))
-        converted_lines.append(convert_to_target(host, port))
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(converted_lines))
-
-    print(f"✅ {len(converted_lines)} proxies optimized and saved to {OUTPUT_FILE}")
-
-if __name__ == "__main__":
-    main()
-EOF
+          echo 'import re' > scripts/optimize-proxies.py
+          echo 'import urllib.request' >> scripts/optimize-proxies.py
+          echo 'from urllib.parse import quote' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo 'SOURCE_URL = "https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/socks5/data.txt"' >> scripts/optimize-proxies.py
+          echo 'OUTPUT_FILE = "optimized-proxies.txt"' >> scripts/optimize-proxies.py
+          echo 'TARGET_FORMAT = "socks://Og==@{host}:{port}#{host}%3A{port}"' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo 'def fetch_proxies():' >> scripts/optimize-proxies.py
+          echo '    with urllib.request.urlopen(SOURCE_URL, timeout=30) as response:' >> scripts/optimize-proxies.py
+          echo '        return response.read().decode("utf-8").splitlines()' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo 'def parse_socks5_line(line):' >> scripts/optimize-proxies.py
+          echo '    match = re.match(r"socks5://([^:]+):(\d+)", line.strip())' >> scripts/optimize-proxies.py
+          echo '    if match:' >> scripts/optimize-proxies.py
+          echo '        return match.groups()' >> scripts/optimize-proxies.py
+          echo '    return None' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo 'def convert_to_target(host, port):' >> scripts/optimize-proxies.py
+          echo '    return TARGET_FORMAT.format(host=host, port=port)' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo 'def main():' >> scripts/optimize-proxies.py
+          echo '    print("Fetching proxies from source...")' >> scripts/optimize-proxies.py
+          echo '    raw_lines = fetch_proxies()' >> scripts/optimize-proxies.py
+          echo '    proxies_set = set()' >> scripts/optimize-proxies.py
+          echo '    converted_lines = []' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo '    for line in raw_lines:' >> scripts/optimize-proxies.py
+          echo '        parsed = parse_socks5_line(line)' >> scripts/optimize-proxies.py
+          echo '        if not parsed:' >> scripts/optimize-proxies.py
+          echo '            continue' >> scripts/optimize-proxies.py
+          echo '        host, port = parsed' >> scripts/optimize-proxies.py
+          echo '        if (host, port) in proxies_set:' >> scripts/optimize-proxies.py
+          echo '            continue' >> scripts/optimize-proxies.py
+          echo '        proxies_set.add((host, port))' >> scripts/optimize-proxies.py
+          echo '        converted_lines.append(convert_to_target(host, port))' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo '    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:' >> scripts/optimize-proxies.py
+          echo '        f.write("\n".join(converted_lines))' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo '    print(f"✅ {len(converted_lines)} proxies optimized and saved to {OUTPUT_FILE}")' >> scripts/optimize-proxies.py
+          echo '' >> scripts/optimize-proxies.py
+          echo 'if __name__ == "__main__":' >> scripts/optimize-proxies.py
+          echo '    main()' >> scripts/optimize-proxies.py
 
       - name: Set up Python
         uses: actions/setup-python@v5
