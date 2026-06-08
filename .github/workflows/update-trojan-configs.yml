@@ -25,7 +25,7 @@ jobs:
     
     - name: Run filter script
       run: |
-        python scripts/filter_trojan.py
+        python filter_trojan.py
     
     - name: Check for changes
       id: git-check
