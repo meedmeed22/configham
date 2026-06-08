@@ -1,0 +1,42 @@
+name: Update Trojan Configs (Port 443)
+
+on:
+  schedule:
+    # هر 1 ساعت یکبار اجرا شود
+    - cron: '0 * * * *'
+  workflow_dispatch:  # برای اجرای دستی هم بتوانید
+
+jobs:
+  update-configs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests
+    
+    - name: Run filter script
+      run: |
+        python filter_trojan.py
+    
+    - name: Check for changes
+      id: git-check
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add trojan_port443.txt
+        git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+    
+    - name: Commit and push if changed
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git commit -m "Auto-update trojan configs (port 443) - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
