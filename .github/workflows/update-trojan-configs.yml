@@ -15,7 +15,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # اضافه کردن این خط
+        token: ${{ secrets.mGITHUB_TOKEN }}  # اضافه کردن این خط
     
     - name: Set up Python
       uses: actions/setup-python@v5
