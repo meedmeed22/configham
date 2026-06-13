@@ -127,7 +127,7 @@ def main():
             time.sleep(0.1)
         
         # ذخیره نتایج
-        output_file = "us_port443_configs.txt"
+        output_file = "trojan_us_port443.txt"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write("# Configs - USA IP + Port 443\n")
             f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
