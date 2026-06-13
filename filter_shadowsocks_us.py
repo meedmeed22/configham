@@ -58,7 +58,7 @@ def is_us_ip(ip_or_domain):
         response = requests.get(f'http://ip-api.com/json/{ip}', timeout=5)
         if response.status_code == 200:
             data = response.json()
-            if data.get('countryCode') == 'FR':
+            if data.get('countryCode') == 'DE':
                 return True
         return False
     except:
