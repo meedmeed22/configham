@@ -84,9 +84,7 @@ def filter_shadowsocks_us_port443():
     
     # سورس‌های مختلف برای دریافت کانفیگ
     sources = [
-        "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/shadowsocks.txt",
-        "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/SSR-SS.txt",
-        "https://raw.githubusercontent.com/AzadNetCH/Clash/main/Split/SS.txt"
+        "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt"
     ]
     
     all_configs = []
