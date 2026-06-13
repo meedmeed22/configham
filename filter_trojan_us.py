@@ -4,54 +4,62 @@ import re
 import time
 from datetime import datetime
 
-def decode_shadowsocks_config(ss_line):
-    """
-    دیکد کردن کانفیگ Shadowsocks با فرمت خاص
-    مثال: c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2T0VwRGMxQnpjMlpuVXpoMGFWSjNhVTFzYUVGU1p6MDlAMTQ0LjIxNy4xNjQuMjk6MTIwMDAj...
-    """
-    try:
-        # حذف فاصله و کاراکترهای اضافی
-        ss_line = ss_line.strip()
-        
-        # اگر خط با ss:// شروع نمی‌شود، ممکن است کل خط base64 باشد
-        if not ss_line.startswith('ss://'):
+def extract_ip_port_from_any_config(line):
+    """استخراج IP و پورت از هر نوع کانفیگ (SS, SSR, Trojan, Vmess)"""
+    
+    line = line.strip()
+    
+    # حذف کامنت‌های انتهایی
+    if '#' in line:
+        line = line.split('#')[0]
+    
+    # 1. پردازش Shadowsocks (ss://)
+    if line.startswith('ss://'):
+        try:
+            content = line[5:]
             # دیکد کردن base64
-            decoded = base64.b64decode(ss_line).decode('utf-8')
-            if decoded.startswith('ss://'):
-                ss_line = decoded
-            else:
-                return None, None
-        
-        # حذف ss://
-        content = ss_line[5:]
-        
-        # حذف کامنت (هر چیزی بعد از #)
-        if '#' in content:
-            content = content.split('#')[0]
-        
-        # استخراج IP و پورت با regex
-        # الگوی IP:Port در انتهای لینک
-        match = re.search(r'@([0-9.]+):(\d+)', content)
-        if match:
-            ip = match.group(1)
-            port = match.group(2)
-            return ip, port
-        
-        # اگر @ نبود، ممکن است فرمت دیگری باشد
-        match = re.search(r'([0-9.]+):(\d+)$', content)
+            decoded = base64.b64decode(content).decode('utf-8')
+            # استخراج IP و پورت با regex
+            match = re.search(r'@([0-9.]+):(\d+)', decoded)
+            if match:
+                return match.group(1), match.group(2)
+            match = re.search(r'([0-9.]+):(\d+)$', decoded)
+            if match:
+                return match.group(1), match.group(2)
+        except:
+            pass
+    
+    # 2. پردازش SSR (ssr://)
+    if line.startswith('ssr://'):
+        try:
+            content = line[6:]
+            decoded = base64.b64decode(content).decode('utf-8')
+            # فرمت ssr: host:port:protocol:method:obfs:...
+            parts = decoded.split(':')
+            if len(parts) >= 2:
+                return parts[0], parts[1]
+        except:
+            pass
+    
+    # 3. پردازش Trojan (trojan://)
+    if line.startswith('trojan://'):
+        match = re.search(r'trojan://[^@]+@([^:?]+):(\d+)', line)
         if match:
             return match.group(1), match.group(2)
-        
-        return None, None
-        
-    except Exception as e:
-        print(f"Decode error: {e}")
-        return None, None
+    
+    # 4. اگر کل خط base64 بود (مثل نمونه‌های شما)
+    try:
+        decoded = base64.b64decode(line).decode('utf-8')
+        if decoded.startswith('ss://') or decoded.startswith('ssr://') or decoded.startswith('trojan://'):
+            return extract_ip_port_from_any_config(decoded)
+    except:
+        pass
+    
+    return None, None
 
 def get_country_code(ip):
-    """دریافت کشور از IP با استفاده از API رایگان"""
+    """دریافت کد کشور از IP"""
     try:
-        # استفاده از ip-api.com (رایگان، بدون نیاز به API key)
         response = requests.get(f"http://ip-api.com/json/{ip}?fields=countryCode", timeout=5)
         if response.status_code == 200:
             data = response.json()
@@ -61,50 +69,48 @@ def get_country_code(ip):
     return None
 
 def main():
-    print("="*60)
-    print("Shadowsocks Filter - USA IP + Port 443")
-    print("="*60)
+    print("="*70)
+    print("Config Filter - USA IP + Port 443 (Support: SS, SSR, Trojan)")
+    print("="*70)
     
-    # منبع کانفیگ‌ها
-    url = "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt"
+    url = "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ssr.txt"
     
     try:
-        # دریافت فایل
-        print(f"\n📥 Downloading from: {url}")
+        print(f"\n📥 Downloading: {url}")
         response = requests.get(url, timeout=30)
         response.raise_for_status()
         
         lines = response.text.splitlines()
         print(f"✅ Total lines: {len(lines)}")
         
-        # پردازش هر خط
+        # پیدا کردن کانفیگ‌های با پورت 443
         port443_configs = []
-        all_valid_configs = []
+        all_configs = []
         
-        print("\n📊 Decoding configs...")
+        print("\n🔍 Processing configs...")
         for line in lines:
             line = line.strip()
-            if not line:
+            if not line or line.startswith('#'):
                 continue
             
-            ip, port = decode_shadowsocks_config(line)
+            ip, port = extract_ip_port_from_any_config(line)
             
             if ip and port:
-                all_valid_configs.append((line, ip, port))
+                all_configs.append((line, ip, port))
                 if str(port) == '443':
                     port443_configs.append((line, ip, port))
                     print(f"   ✅ Found: {ip}:{port}")
         
         print(f"\n📊 Statistics:")
-        print(f"   - Valid SS configs: {len(all_valid_configs)}")
+        print(f"   - Total valid configs: {len(all_configs)}")
         print(f"   - Configs with port 443: {len(port443_configs)}")
         
         if len(port443_configs) == 0:
             print("\n⚠️ No configs with port 443 found!")
             return
         
-        # بررسی کشور IPها
-        print("\n🔍 Checking IP countries...")
+        # بررسی کشور
+        print("\n🌍 Checking IP countries...")
         us_configs = []
         
         for idx, (config, ip, port) in enumerate(port443_configs, 1):
@@ -118,33 +124,31 @@ def main():
             else:
                 print(f"❌ {country if country else 'Unknown'}")
             
-            time.sleep(0.1)  # تاخیر برای احترام به API
+            time.sleep(0.1)
         
         # ذخیره نتایج
-        output_file = "shadowsocks_us_port443.txt"
+        output_file = "us_port443_configs.txt"
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write("# Shadowsocks Configs - USA IP + Port 443\n")
+            f.write("# Configs - USA IP + Port 443\n")
             f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
             f.write(f"# Total: {len(us_configs)}\n")
-            f.write("#" + "="*60 + "\n\n")
+            f.write("#" + "="*70 + "\n\n")
             for config in us_configs:
                 f.write(config + "\n")
         
         # گزارش نهایی
-        print("\n" + "="*60)
+        print("\n" + "="*70)
         print("✅ FINAL RESULTS:")
-        print(f"   - Total valid SS configs: {len(all_valid_configs)}")
+        print(f"   - Total configs processed: {len(all_configs)}")
         print(f"   - Port 443: {len(port443_configs)}")
         print(f"   - USA + Port 443: {len(us_configs)}")
         print(f"   - Saved to: {output_file}")
-        print("="*60)
+        print("="*70)
         
-        # نمایش نمونه
         if us_configs:
-            print("\n📝 First 3 USA configs:")
+            print("\n📝 Sample (first 3):")
             for i, config in enumerate(us_configs[:3], 1):
-                # نمایش 100 کاراکتر اول
-                print(f"   {i}. {config[:100]}...")
+                print(f"   {i}. {config[:80]}...")
         
     except Exception as e:
         print(f"\n❌ Error: {e}")
