@@ -1,0 +1,6 @@
+# Shadowsocks Configs - USA Servers - Port 443
+# Last Update: 2026-06-13 16:31:29 UTC
+# Total Configs: 0
+# Filter: Port 443 & USA IP
+#======================================================================
+
