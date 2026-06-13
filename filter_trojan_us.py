@@ -27,7 +27,7 @@ def extract_ip_from_trojan(trojan_url):
     return None, None
 
 def filter_trojan_configs():
-    url = "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
+    url = "https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/ss.txt"
     
     try:
         print("📥 دریافت فایل کانفیگ‌ها...")
