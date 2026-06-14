@@ -5,7 +5,7 @@ from datetime import datetime
 
 def filter_vless_reality_configs():
     url = "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt"
-    
+
     try:
         response = requests.get(url, timeout=30)
         response.raise_for_status()
