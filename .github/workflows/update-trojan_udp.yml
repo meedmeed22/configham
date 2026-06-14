@@ -1,0 +1,38 @@
+name: Update Trojan Configs (Port 443)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-configs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # این خط مهم است
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.mGITHUB_TOKEN }}  # اضافه کردن این خط
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests
+    
+    - name: Run filter script
+      run: |
+        python fillter_51820.py
+    
+    - name: Commit and push
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add trojan_port51820.txt
+        git diff --staged --quiet || (git commit -m "Auto-update trojan configs (port 443) - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
