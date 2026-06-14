@@ -1,10 +1,14 @@
 # Shadowsocks Configs - USA Servers - Port 443
-# Last Update: 2026-06-14 06:26:02 UTC
-# Total Configs: 4
+# Last Update: 2026-06-14 09:50:19 UTC
+# Total Configs: 8
 # Filter: Port 443 & USA IP
 #======================================================================
 
-ss://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
+ss://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=%2Ftsghdws&amp;security=tls&amp;encryption=none&amp;host=octopusss4.com&amp;type=ws&amp;sni=octopusss4.com#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.105.244.165:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&amp;encryption=none&amp;pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=finporkzov.com&amp;sid=f00f58383241c807#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&amp;encryption=none&amp;pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.linkedin.com&amp;sid=56c96c1d14#🔥Join+Telegram:@Farah_VPN🟣
+ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+ss://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.254.10:443#🔥Join+Telegram:@Farah_VPN🟣
