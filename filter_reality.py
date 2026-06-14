@@ -5,7 +5,7 @@ from datetime import datetime
 
 def filter_vless_reality_configs():
     url = "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt"
-
+    
     try:
         response = requests.get(url, timeout=30)
         response.raise_for_status()
@@ -19,8 +19,8 @@ def filter_vless_reality_configs():
                 continue
             
             if 'vless://' in line:
-                # بررسی وجود security=reality در پارامترها
-                if re.search(r'security=reality', line, re.IGNORECASE):
+                # بررسی security=reality و پورت 443
+                if re.search(r'security=reality', line, re.IGNORECASE) and re.search(r':443[?&/]', line):
                     filtered_lines.append(line)
         
         # ذخیره با زمان به‌روزرسانی
@@ -31,7 +31,7 @@ def filter_vless_reality_configs():
             f.write("#" + "="*60 + "\n\n")
             f.write("\n".join(filtered_lines))
         
-        print(f"✅ Updated: {len(filtered_lines)} VLESS Reality configs")
+        print(f"✅ Updated: {len(filtered_lines)} VLESS Reality configs (Port 443)")
         return True
         
     except Exception as e:
