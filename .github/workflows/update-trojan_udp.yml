@@ -1,4 +1,4 @@
-name: Update Trojan Configs (Port 443)
+name: Update Trojan Configs (Port 51820)
 
 on:
   schedule:
