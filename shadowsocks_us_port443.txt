@@ -1,9 +1,7 @@
 # Shadowsocks Configs - USA Servers - Port 443
-# Last Update: 2026-06-13 19:47:23 UTC
-# Total Configs: 3
+# Last Update: 2026-06-14 04:58:40 UTC
+# Total Configs: 1
 # Filter: Port 443 & USA IP
 #======================================================================
 
-ss://Telegram-Parsashonam@195.201.249.68:443?security=reality&encryption=none&pbk=rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc&headerType=none&fp=chrome&spx=/YtQ58V1AZ8fExyr&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=83dc602558#🇩🇪DE-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#%3E%3E%40outline_vpn%3A%3ADE
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.183.200.172:443#%F0%9F%87%A9%F0%9F%87%AADE-63.183.200.172-1644
