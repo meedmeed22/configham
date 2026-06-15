@@ -1,5 +1,5 @@
-# Last Update: 2026-06-15 15:39:17 UTC
-# Total Configs: 393
+# Last Update: 2026-06-15 19:39:53 UTC
+# Total Configs: 395
 #============================================================
 
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
@@ -317,15 +317,20 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&ins
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
 trojan://x5cDfADabj@45.130.125.75:443?path=/?ed=2048&security=tls&insecure=0&host=b.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=b.aananas.ir#@Ap_Ir6
 trojan://humanity@104.19.229.21:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40filtershekan_channel%20%231
+trojan://humanity@104.19.229.21:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.calmlunch.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.calmlunch.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40filtershekan_channel%20%232
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40free4allvpn%20%231
+trojan://humanity@212.183.88.136:443/?type=ws&amp%3Bhost=www.calmlunch.com&amp%3Bpath=/assignment&amp%3Bsecurity=tls&amp%3Bsni=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20TROJAN%20%7C%20%40freeconfigsplus%20%231
 trojan://humanity@188.114.97.6:443?path=/assignment&amp%3Bsecurity=tls%3D-%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann&amp%3Bhost=www.calmloud.com&amp%3Ballowinsecure=0&amp%3Btype=ws&amp%3Bsni=www.calmloud.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40ghalagyann%20%231
+trojan://mitivpn@188.114.97.202:443?path=/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bhost=d.gamingdll.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=gamingdll.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=/tr&amp%3Bsecurity=tls&amp%3Binsecure=1&amp%3Bhost=Koma-YT.PAGeS.Dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40spikevpn%20%231
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.18.109.147:443?path=/tr&amp%3Bsecurity=tls&amp%3Binsecure=1&amp%3Bhost=Koma-YT.PAGeS.Dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40spikevpn%20%232
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&amp%3Bsni=www.ssl.global.digi.my.mitivpn.xyz&amp%3Bws=1&amp%3Bwspath=/ed%3Dmitivpn#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2raych%20%231
+trojan://humanity@198.62.62.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.calmlunch.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231
+trojan://humanity@104.19.229.21:443?path=/assignment%3FL%3Dtls&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2raych%20%231
+trojan://humanity@45.130.125.158:443?path=/assignment&amp%3Bsecurity=tls&amp%3Balpn=h3%2Ch2%2Chttp/1.1&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Bfp=ios&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20%40v2rayopen%20%231
 trojan://humanity@104.19.229.21:443?type=ws&amp%3Bhost=www.calmloud.com&amp%3Bpath=/assignment&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Bsni=www.calmloud.com&amp%3Balpn=http/1.1#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2rayprotocol%20%231
-trojan://humanity@185.18.250.252:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20TROJAN%20%7C%20%40vpn_ioss%20%231
+trojan://humanity@104.16.174.36:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vmesc%20%231
 trojan://mitivpn@188.114.97.6:443?path=/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bhost=de.mitivpn.global.ssl.b5r.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=b5r.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnfree85%20%231
 trojan://humanity@104.17.177.143:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnowl%20%231
 trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -388,10 +393,7 @@ trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&ho
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=1&sni=www.directorypipeline.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#%3E%3E%40v2nodes%3A%3AXX
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0142
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0198
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0144
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0156
-trojan://bbdff6a8-2e22-4d37-a4ab-a038bc646bd9@67tw01.fans8.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0048
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click#%F0%9F%87%BA%F0%9F%87%B8US-149.104.87.182-0264
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0267
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0156
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0174
+trojan://bbdff6a8-2e22-4d37-a4ab-a038bc646bd9@67tw01.fans8.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0227
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0232
