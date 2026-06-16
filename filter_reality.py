@@ -20,7 +20,7 @@ def filter_vless_websocket_configs():
             
             if 'vless://' in line:
                 # بررسی type=ws یا websocket و پورت 443
-                if re.search(r'type=ws', line, re.IGNORECASE) and re.search(r':443[?&/]', line):
+                if re.search(r'security=reality', line, re.IGNORECASE) and re.search(r':443[?&/]', line):
                     filtered_lines.append(line)
         
         # ذخیره با زمان به‌روزرسانی
