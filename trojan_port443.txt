@@ -1,5 +1,5 @@
-# Last Update: 2026-06-23 13:39:02 UTC
-# Total Configs: 584
+# Last Update: 2026-06-23 16:23:19 UTC
+# Total Configs: 583
 #============================================================
 
 trojan://!CdI6RI6U2ok_LsR@volexproxy.giweeeefhfhhf89.workers.dev:443?path=/eyJqdW5rIjoiaUhKSEM4THM4cnJIbnMiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=volexproxy.giweeeefhfhhf89.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VoLEXPrOXy.GIWEeeEfhfHhF89.WORKErS.DEv#🚀@VPNine1
@@ -467,13 +467,10 @@ trojan://tg-dns68@162.159.152.138:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40free4allvpn%20%231
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bhost=gamingdll.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=gamingdll.ir#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%231
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bhost=gamingdll.ir&amp%3Bfp=chrome&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%232
-trojan://humanity@45.130.125.126:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.multiplydose.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.multiplydose.com#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20%40red2ray%20%231
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=/tr&amp%3Bsecurity=tls&amp%3Binsecure=1&amp%3Bhost=Koma-YT.PAGeS.Dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40spikevpn%20%231
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.18.109.147:443?path=/tr&amp%3Bsecurity=tls&amp%3Binsecure=1&amp%3Bhost=Koma-YT.PAGeS.Dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40spikevpn%20%232
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
-trojan://humanity@104.16.174.12:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2ray1_ng%20%231
-trojan://humanity@104.19.229.21:443?type=ws&amp%3Bhost=www.calmloud.com&amp%3Bpath=/assignment&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Bsni=www.calmloud.com&amp%3Balpn=http/1.1#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2rayprotocol%20%231
 trojan://MiTiVPN@172.67.210.215:443?path=/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bhost=linkkon-w.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=linkkon-w.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpn_ioss%20%231
 trojan://mitivpn@188.114.97.6:443?path=/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bhost=de.mitivpn.global.ssl.b5r.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=b5r.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnfree85%20%231
 trojan://humanity@104.17.177.143:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.ignitelimit.com&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnowl%20%231
@@ -559,18 +556,20 @@ trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&
 trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40configshub2%3A%3APL
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40configV2rayNG%3A%3APL
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8US-45.61.52.243-0153
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.54.64.247-0539
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&sni=fra154.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.154-0173
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.59-0174
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0177
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-130.94.78.17-0192
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0200
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217#%F0%9F%87%A8%F0%9F%87%A6CA-130.94.114.217-0223
-trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.216.169:443?security=tls&sni=103.125.216.169#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.169-0238
-trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&sni=103.125.219.70#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.219.70-0240
-trojan://64e4a3ac-7699-4614-9c53-9e1da3dccf5a@67sg01.fans8.xyz:443?security=tls&sni=67sg01.fans8.xyz#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0242
-trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189#%F0%9F%87%A9%F0%9F%87%AADE-38.54.13.189-0257
+trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-207.126.167.162-0737
+trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8US-45.61.52.243-0135
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.54.64.247-0160
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&sni=fra154.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.154-0161
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.59-0162
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.250-0985
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0171
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0211
+trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@w11.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.105.120.73-0074
+trojan://f5362b9a-812f-4d77-89a3-09f7d0851bfb@67sg01.fans8.xyz:443?security=tls&sni=67sg01.fans8.xyz#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0069
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-130.94.78.17-0204
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217#%F0%9F%87%A8%F0%9F%87%A6CA-130.94.114.217-0230
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.216.169:443?security=tls&sni=103.125.216.169#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.169-0244
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&sni=103.125.219.70#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.219.70-0246
 trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%8A33@NetFlowTools
 trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8C%8A41@oneclickvpnkeys
 trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8C%8A42@NetFlowTools
