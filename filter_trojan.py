@@ -100,23 +100,21 @@ def filter_trojan_configs():
                 continue
             
             if 'trojan://' in line:
-                # بررسی پورت 443
-                if re.search(r'trojan://[^@]+@([^:?]+):443(?:[?/]|$)', line):
-                    # استخراج آیپی و بررسی ترکیه بودن
-                    ip = extract_ip_from_config(line)
-                    if ip and is_ip_in_turkey(ip, turkey_ranges):
-                        filtered_lines.append(line)
+                # استخراج آیپی و بررسی ترکیه بودن (بدون محدودیت پورت)
+                ip = extract_ip_from_config(line)
+                if ip and is_ip_in_turkey(ip, turkey_ranges):
+                    filtered_lines.append(line)
         
-        # ذخیره فایل نهایی (پورت 443 + ترکیه)
-        output_filename = "trojan_port443.txt"
+        # ذخیره فایل نهایی (همه تروجان‌های ترکیه)
+        output_filename = "trojan_turkey.txt"
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
             f.write(f"# Total Configs: {len(filtered_lines)}\n")
-            f.write(f"# Filter: Port 443 + Turkey IPs only\n")
+            f.write(f"# Filter: All Trojan configs with Turkey IPs\n")
             f.write("#" + "="*60 + "\n\n")
             f.write("\n".join(filtered_lines))
         
-        print(f"✅ Updated: {len(filtered_lines)} configs (Port 443 + Turkey IPs)")
+        print(f"✅ Updated: {len(filtered_lines)} configs (All Trojan + Turkey IPs)")
         print(f"📁 File saved: {output_filename}")
         return True
         
