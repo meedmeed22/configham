@@ -1,5 +1,5 @@
-# Last Update: 2026-07-11 14:45:22 UTC
-# Total Configs: 781
+# Last Update: 2026-07-11 15:47:03 UTC
+# Total Configs: 783
 # Filter: Port 443 only
 #============================================================
 
@@ -737,26 +737,28 @@ trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.c
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-2622
-trojan://XG59623478@intense-basilisk.rooster465.autos:443?security=tls&sni=intense-basilisk.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.112.177-0141
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0094
-trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%F0%9F%87%BA%F0%9F%87%B8US-149.28.241.235-0062
-trojan://PI36027154@rich-mule.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.237.144-0093
-trojan://HW85960347@happy-monkfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.163.138-0159
-trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0098
-trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0169
-trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-194.99.79.214-0100
-trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.208-0117
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.140-0245
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-0131
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.151-0240
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0242
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0130
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0238
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.145-0244
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.138-0241
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0121
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0132
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0065
+trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%F0%9F%87%BA%F0%9F%87%B8US-149.28.241.235-0097
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0092
+trojan://HW85960347@happy-monkfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.163.138-0105
+trojan://PI36027154@rich-mule.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.237.144-0104
+trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0110
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0111
+trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-194.99.79.214-0116
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.208-0140
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.138-0155
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-0146
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.151-0147
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0156
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.54.64.247-2330
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0170
+trojan://XG59623478@intense-basilisk.rooster465.autos:443?security=tls&sni=intense-basilisk.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.112.177-0087
+trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-129.146.255.158-4045
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.145-0153
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0150
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0149
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0148
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.140-0145
 trojan://humanity@172.64.147.24:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🤹
 trojan://humanity@104.19.230.21:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#🪄
 trojan://humanity@104.16.250.22:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#🥇
