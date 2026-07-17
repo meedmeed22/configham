@@ -1,5 +1,5 @@
-# Last Update: 2026-07-16 23:55:47 UTC
-# Total Configs: 819
+# Last Update: 2026-07-17 02:07:04 UTC
+# Total Configs: 823
 # Filter: Port 443 only
 #============================================================
 
@@ -25,6 +25,10 @@ trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=/db&host=edg
 trojan://521314@wangcai.yunzhongzhuan.com:443?host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳&sni=tjplay.lxdxo.kdns.fr&type=ws#🪙68@oneclickvpnkeys
 trojan://53e812dc-ddf6-cc77-d053-16598927e29c@wispy-recipe-213f.tmjensn.workers.dev:443?encryption=none&security=tls&sni=wispy-recipe-213f.tmjensn.workers.dev&fp=chrome&type=ws&host=wispy-recipe-213f.tmjensn.workers.dev&path=/sync&allowInsecure=0#@armindone👈چنل تلگراممون
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#@Hope_Net-join-us-on-Telegram
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#[95831] - Telegram : @V2All
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#[🇨🇦]t.me/ConfigsHub
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#🇨🇦112856 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://7b12dfabbe374661a12d11d698d86fbd@151.101.56.7:443?type=xhttp&security=tls&path=/&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&security=tls&path=/&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Proxy_Se7en
@@ -86,6 +90,7 @@ trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/--
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-De-C-o.Maqror.ir#𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@MetiVIP
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-De-C-o.Maqror.ir#🔵 t.me/iProxyChannel
 trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-De-C-o.Maqror.ir#🔵t.me/iProxyChannel 3
+trojan://MITIVPN@162.159.38.119:443?security=tls&sni=Win-De-C-o.Maqror.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde#[95808] - Telegram : @V2All
 trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&headerType=none&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&fp=chrome&sni=Win-De-C-o.Maqror.ir&alpn=http/1.1#🦉@FreeConfigForYou
 trojan://MITIVPN@162.159.38.62:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s-W&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-use-Cv-o.Maqror.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MITIVPN@162.159.8.101:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA&security=tls&alpn=http/1.1&host=my-usa-ol.App-Cloud.ir&fp=chrome&type=ws&sni=UsAa-bUs.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
@@ -260,7 +265,6 @@ trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecu
 trojan://VPNCUSTOMIZE@162.159.38.183:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@meliproxyy
 trojan://VPNCUSTOMIZE@162.159.38.183:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@tootffarangi🍓-6Irancell-rightel
 trojan://VPNCUSTOMIZE@162.159.38.183:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#V2ray_Alpha🥦 5
-trojan://VPNCUSTOMIZE@162.159.38.183:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#🚀@VPNine1
 trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@meliproxyy
 trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@tootffarangi🍓-4Irancell-rightel
 trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#V2ray_Alpha🥦 8
@@ -281,8 +285,6 @@ trojan://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.ap
 trojan://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=/ws/cc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http/1.1&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#🇺🇸@V2rayng_Fast
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://dfdse334053vuohm@104.16.72.2:443?path=/&security=tls&insecure=0&host=alternative.mhjstudio.ir&type=ws&allowInsecure=0&sni=alternative.mhjstudio.ir#🇹🇷
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.135#[95765] - Telegram : @V2All
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.135#[🇩🇪]t.me/ConfigsHub
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.135#🇩🇪112822 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.135#🇩🇪DE-🚀@VPNine1
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Germany 🇩🇪
@@ -402,8 +404,6 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&i
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#🇨🇦112735 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#🚀@VPNine1
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#[95761] - Telegram : @V2All
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&path=/assignment#[95787] - Telegram : @V2All
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.creationlong.org#Proxy_Se7en
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@icv2ray
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@prrofile_purple  ♥️👈 تلگرام
@@ -444,7 +444,6 @@ trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&se
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2raySup0 | 🚀
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
 trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 @V2raySup0
-trojan://humanity@www.calmlunch.com:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#[95785] - Telegram : @V2All
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Ap_Ir6
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@tootffarangi🍓-6
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🍭
@@ -452,7 +451,6 @@ trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🍭
 trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-trojan://humanity@www.host-tracker.com:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment#[95786] - Telegram : @V2All
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#40bored_vpn
@@ -489,6 +487,12 @@ trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=h
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@V2raySup0🚀
+trojan://tg-dns68@162.159.152.169:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.152.169:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[95797] - Telegram : @V2All
+trojan://tg-dns68@162.159.152.169:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦112840 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[95833] - Telegram : @V2All
+trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦112853 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🇨🇦112806 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🚀@VPNine1
