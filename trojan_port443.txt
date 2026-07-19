@@ -1,6 +1,7 @@
-# Last Update: 2026-07-19 20:04:16 UTC
+# Last Update: 2026-07-19 20:27:27 UTC
 # Total Configs: 728
 # Filter: Port 443 only
+# Note: Configs with network=xhttp have address changed to www.hcaptcha.com
 #============================================================
 
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
