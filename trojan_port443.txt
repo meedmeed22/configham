@@ -1,4 +1,4 @@
-# Last Update: 2026-07-19 22:43:05 UTC
+# Last Update: 2026-07-19 23:50:56 UTC
 # Total Configs: 723
 # Filter: Port 443 only
 # Note: Configs with type=xhttp have address changed to www.hcaptcha.com
