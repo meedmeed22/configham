@@ -22,7 +22,7 @@ def filter_trojan_configs():
             if 'trojan://' in line:
                 # بررسی پورت 443
                 if re.search(r'trojan://[^@]+@([^:?]+):443(?:[?/]|$)', line):
-                    # بررسی و تغییر address برای network=xhttp
+                    # بررسی و تغییر address برای type=xhttp
                     modified_line = modify_address_for_xhttp(line)
                     filtered_lines.append(modified_line)
 
@@ -32,7 +32,7 @@ def filter_trojan_configs():
             f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
             f.write(f"# Total Configs: {len(filtered_lines)}\n")
             f.write(f"# Filter: Port 443 only\n")
-            f.write(f"# Note: Configs with network=xhttp have address changed to www.hcaptcha.com\n")
+            f.write(f"# Note: Configs with type=xhttp have address changed to www.hcaptcha.com\n")
             f.write("#" + "="*60 + "\n\n")
             f.write("\n".join(filtered_lines))
 
@@ -46,10 +46,9 @@ def filter_trojan_configs():
 
 def modify_address_for_xhttp(config_line):
     """
-    اگر network=xhttp باشد، address را به www.hcaptcha.com تغییر می‌دهد
+    اگر type=xhttp باشد، address را به www.hcaptcha.com تغییر می‌دهد
     """
     try:
-        # استخراج بخش‌های مختلف URL
         if 'trojan://' not in config_line:
             return config_line
         
@@ -81,8 +80,8 @@ def modify_address_for_xhttp(config_line):
         # بررسی query parameters
         params = parse_qs(query_string)
         
-        # اگر network=xhttp وجود داشت، address را تغییر بده
-        if 'network' in params and params['network'][0] == 'xhttp':
+        # اگر type=xhttp وجود داشت، address را تغییر بده
+        if 'type' in params and params['type'][0] == 'xhttp':
             # تغییر host به www.hcaptcha.com
             host = 'www.hcaptcha.com'
             # حفظ port
