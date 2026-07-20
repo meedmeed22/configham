@@ -1,7 +1,7 @@
 import requests
 import re
 from datetime import datetime
-from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+from urllib.parse import parse_qs
 
 def filter_trojan_configs():
     url = "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
@@ -13,7 +13,10 @@ def filter_trojan_configs():
 
         lines = response.text.splitlines()
 
-        filtered_lines = []
+        # لیست‌های جداگانه برای دو نوع config
+        xhttp_configs = []
+        normal_configs = []
+
         for line in lines:
             line = line.strip()
             if line.startswith('#') or not line:
@@ -22,26 +25,64 @@ def filter_trojan_configs():
             if 'trojan://' in line:
                 # بررسی پورت 443
                 if re.search(r'trojan://[^@]+@([^:?]+):443(?:[?/]|$)', line):
-                    # بررسی و تغییر address برای type=xhttp
-                    modified_line = modify_address_for_xhttp(line)
-                    filtered_lines.append(modified_line)
+                    # بررسی type=xhttp
+                    if is_xhttp_config(line):
+                        # تغییر address برای xhttp
+                        modified_line = modify_address_for_xhttp(line)
+                        xhttp_configs.append(modified_line)
+                    else:
+                        normal_configs.append(line)
 
-        # ذخیره فایل نهایی
-        output_filename = "trojan_port443.txt"
-        with open(output_filename, "w", encoding="utf-8") as f:
+        # ذخیره فایل اول: configهای معمولی (port 443)
+        output_filename1 = "trojan_port443.txt"
+        with open(output_filename1, "w", encoding="utf-8") as f:
             f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
-            f.write(f"# Total Configs: {len(filtered_lines)}\n")
-            f.write(f"# Filter: Port 443 only\n")
-            f.write(f"# Note: Configs with type=xhttp have address changed to www.hcaptcha.com\n")
+            f.write(f"# Total Configs: {len(normal_configs)}\n")
+            f.write(f"# Filter: Port 443 only (non-xhttp)\n")
             f.write("#" + "="*60 + "\n\n")
-            f.write("\n".join(filtered_lines))
+            f.write("\n".join(normal_configs))
 
-        print(f"✅ Updated: {len(filtered_lines)} configs (Port 443 only)")
-        print(f"📁 File saved: {output_filename}")
+        # ذخیره فایل دوم: configهای xhttp (port 443 با address تغییر یافته)
+        output_filename2 = "trojan_port443_xhttp.txt"
+        with open(output_filename2, "w", encoding="utf-8") as f:
+            f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
+            f.write(f"# Total Configs: {len(xhttp_configs)}\n")
+            f.write(f"# Filter: Port 443 only (type=xhttp)\n")
+            f.write(f"# Note: Address changed to www.hcaptcha.com\n")
+            f.write("#" + "="*60 + "\n\n")
+            f.write("\n".join(xhttp_configs))
+
+        print(f"✅ Updated:")
+        print(f"   - Normal configs (non-xhttp): {len(normal_configs)} configs → {output_filename1}")
+        print(f"   - XHTTP configs (address changed): {len(xhttp_configs)} configs → {output_filename2}")
+        print(f"📁 Files saved successfully")
         return True
 
     except Exception as e:
         print(f"❌ Error: {e}")
+        return False
+
+def is_xhttp_config(config_line):
+    """
+    بررسی می‌کند که آیا config دارای type=xhttp است یا خیر
+    """
+    try:
+        if 'trojan://' not in config_line:
+            return False
+        
+        # پیدا کردن بخش query string
+        question_index = config_line.find('?')
+        if question_index == -1:
+            return False
+        
+        query_string = config_line[question_index + 1:]
+        # جدا کردن پارامترها
+        params = parse_qs(query_string)
+        
+        # بررسی وجود type=xhttp
+        return 'type' in params and params['type'][0] == 'xhttp'
+        
+    except Exception:
         return False
 
 def modify_address_for_xhttp(config_line):
@@ -77,22 +118,14 @@ def modify_address_for_xhttp(config_line):
         if len(host_port_parts) < 2:
             return config_line
         
-        # بررسی query parameters
-        params = parse_qs(query_string)
+        # تغییر host به www.hcaptcha.com
+        host = 'www.hcaptcha.com'
+        port = host_port_parts[1]
+        new_host_port = f"{host}:{port}"
         
-        # اگر type=xhttp وجود داشت، address را تغییر بده
-        if 'type' in params and params['type'][0] == 'xhttp':
-            # تغییر host به www.hcaptcha.com
-            host = 'www.hcaptcha.com'
-            # حفظ port
-            port = host_port_parts[1]
-            new_host_port = f"{host}:{port}"
-            
-            # بازسازی URL
-            new_url = f"{prefix}{credentials}@{new_host_port}?{query_string}"
-            return new_url
-        
-        return config_line
+        # بازسازی URL
+        new_url = f"{prefix}{credentials}@{new_host_port}?{query_string}"
+        return new_url
         
     except Exception as e:
         # در صورت بروز خطا، config اصلی را برگردان
