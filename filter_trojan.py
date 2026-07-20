@@ -1,7 +1,6 @@
 import requests
 import re
 from datetime import datetime
-from urllib.parse import parse_qs
 
 def filter_trojan_configs():
     url = "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
@@ -13,9 +12,9 @@ def filter_trojan_configs():
 
         lines = response.text.splitlines()
 
-        # لیست‌های جداگانه برای دو نوع config
-        xhttp_configs = []
-        normal_configs = []
+        # لیست‌های جداگانه برای دو نوع خروجی
+        original_configs = []  # کانفیگ‌های اصلی بدون تغییر
+        modified_configs = []  # کانفیگ‌های با آدرس تغییر یافته
 
         for line in lines:
             line = line.strip()
@@ -25,36 +24,35 @@ def filter_trojan_configs():
             if 'trojan://' in line:
                 # بررسی پورت 443
                 if re.search(r'trojan://[^@]+@([^:?]+):443(?:[?/]|$)', line):
-                    # بررسی type=xhttp
-                    if is_xhttp_config(line):
-                        # تغییر address برای xhttp
-                        modified_line = modify_address_for_xhttp(line)
-                        xhttp_configs.append(modified_line)
-                    else:
-                        normal_configs.append(line)
+                    # اضافه کردن به لیست اصلی (بدون تغییر)
+                    original_configs.append(line)
+                    
+                    # تغییر آدرس به www.hcaptcha.com و اضافه به لیست دوم
+                    modified_line = change_address_to_hcaptcha(line)
+                    modified_configs.append(modified_line)
 
-        # ذخیره فایل اول: configهای معمولی (port 443)
+        # ذخیره فایل اول: کانفیگ‌های اصلی (بدون تغییر)
         output_filename1 = "trojan_port443.txt"
         with open(output_filename1, "w", encoding="utf-8") as f:
             f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
-            f.write(f"# Total Configs: {len(normal_configs)}\n")
-            f.write(f"# Filter: Port 443 only (non-xhttp)\n")
+            f.write(f"# Total Configs: {len(original_configs)}\n")
+            f.write(f"# Filter: Port 443 only (Original addresses)\n")
             f.write("#" + "="*60 + "\n\n")
-            f.write("\n".join(normal_configs))
+            f.write("\n".join(original_configs))
 
-        # ذخیره فایل دوم: configهای xhttp (port 443 با address تغییر یافته)
-        output_filename2 = "trojan_port443_xhttp.txt"
+        # ذخیره فایل دوم: کانفیگ‌های با آدرس تغییر یافته
+        output_filename2 = "trojan_port443_hcaptcha.txt"
         with open(output_filename2, "w", encoding="utf-8") as f:
             f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
-            f.write(f"# Total Configs: {len(xhttp_configs)}\n")
-            f.write(f"# Filter: Port 443 only (type=xhttp)\n")
-            f.write(f"# Note: Address changed to www.hcaptcha.com\n")
+            f.write(f"# Total Configs: {len(modified_configs)}\n")
+            f.write(f"# Filter: Port 443 only (Address changed to www.hcaptcha.com)\n")
+            f.write(f"# Note: All addresses have been changed to www.hcaptcha.com\n")
             f.write("#" + "="*60 + "\n\n")
-            f.write("\n".join(xhttp_configs))
+            f.write("\n".join(modified_configs))
 
         print(f"✅ Updated:")
-        print(f"   - Normal configs (non-xhttp): {len(normal_configs)} configs → {output_filename1}")
-        print(f"   - XHTTP configs (address changed): {len(xhttp_configs)} configs → {output_filename2}")
+        print(f"   - Original configs (unchanged): {len(original_configs)} configs → {output_filename1}")
+        print(f"   - Modified configs (address changed to www.hcaptcha.com): {len(modified_configs)} configs → {output_filename2}")
         print(f"📁 Files saved successfully")
         return True
 
@@ -62,32 +60,9 @@ def filter_trojan_configs():
         print(f"❌ Error: {e}")
         return False
 
-def is_xhttp_config(config_line):
+def change_address_to_hcaptcha(config_line):
     """
-    بررسی می‌کند که آیا config دارای type=xhttp است یا خیر
-    """
-    try:
-        if 'trojan://' not in config_line:
-            return False
-        
-        # پیدا کردن بخش query string
-        question_index = config_line.find('?')
-        if question_index == -1:
-            return False
-        
-        query_string = config_line[question_index + 1:]
-        # جدا کردن پارامترها
-        params = parse_qs(query_string)
-        
-        # بررسی وجود type=xhttp
-        return 'type' in params and params['type'][0] == 'xhttp'
-        
-    except Exception:
-        return False
-
-def modify_address_for_xhttp(config_line):
-    """
-    اگر type=xhttp باشد، address را به www.hcaptcha.com تغییر می‌دهد
+    آدرس (host) را در تمام کانفیگ‌ها به www.hcaptcha.com تغییر می‌دهد
     """
     try:
         if 'trojan://' not in config_line:
@@ -120,7 +95,7 @@ def modify_address_for_xhttp(config_line):
         
         # تغییر host به www.hcaptcha.com
         host = 'www.hcaptcha.com'
-        port = host_port_parts[1]
+        port = host_port_parts[1]  # حفظ پورت اصلی (443)
         new_host_port = f"{host}:{port}"
         
         # بازسازی URL
