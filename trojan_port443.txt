@@ -1,5 +1,5 @@
-# Last Update: 2026-07-20 23:50:51 UTC
-# Total Configs: 631
+# Last Update: 2026-07-21 01:57:58 UTC
+# Total Configs: 625
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -15,7 +15,6 @@ trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=http/1.1&fp
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#@Hope_Net-join-us-on-Telegram
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#@v2ray_configs_pools-join-us-on-Telegram
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#🚀@VPNine1
 trojan://7b12dfabbe374661a12d11d698d86fbd@151.101.56.7:443?mode=packet-up&path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#⚪t.me/iProxyChannel 9
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?mode=packet-up&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#⚪t.me/iProxyChannel 7
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Proxy_Se7en
@@ -166,7 +165,6 @@ trojan://NQ26071394@15.237.250.154:443?security=tls&insecure=0&headerType=none&f
 trojan://NQ26071394@15.237.250.154:443?security=tls&sni=chief-cricket.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#Channel : @Daily_Configs
 trojan://NQ26071394@3.75.174.185:443?fp=chrome&sni=certain-prawn.rooster465.autos#⚽4@oneclickvpnkeys
 trojan://NQ26071394@63.178.193.196:443?fp=chrome&sni=quiet-condor.rooster465.autos#⚽5@oneclickvpnkeys
-trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#[99461] - Telegram : @V2All
 trojan://NQ26071394@79.133.126.190:443?fp=chrome&sni=renewed-phoenix.rooster465.autos#📊25@oneclickvpnkeys
 trojan://NQ26071394@89.39.70.143:443?fp=chrome&sni=thorough-falcon.rooster465.autos#📊20@oneclickvpnkeys
 trojan://NQ26071394@89.39.70.85:443?fp=chrome&sni=grateful-bedbug.rooster465.autos#📊22@oneclickvpnkeys
@@ -192,9 +190,7 @@ trojan://PD07395842@above-rabbit.rooster465.autos:443?fp=chrome#⚽93@oneclickvp
 trojan://PD07395842@endless-crappie.rooster465.autos:443?fp=chrome#⚽92@oneclickvpnkeys
 trojan://PD07395842@optimum-bull.rooster465.autos:443/?type=tcp&security=tls&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#تو کانال نتورلد نباشید قطع میشن @networld_vpn
 trojan://PD07395842@optimum-bull.rooster465.autos:443?fp=chrome#⚽37@oneclickvpnkeys
-trojan://PD07395842@present-warthog.rooster465.autos:443?fp=chrome#⚽55@oneclickvpnkeys
 trojan://PD07395842@pretty-quail.rooster465.autos:443?fp=chrome#⚽63@oneclickvpnkeys
-trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#⚽54@oneclickvpnkeys
 trojan://PD07395842@tough-pigeon.rooster465.autos:443?fp=chrome#⚽72@oneclickvpnkeys
 trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome#⚽77@oneclickvpnkeys
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?fp=chrome&security=tls&sni=149.104.104.58&type=tcp#🇵🇰 Join+Telegram:@Farah_VPN 🇵🇰
@@ -210,6 +206,9 @@ trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?path=/br-orcl&s
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://auto@162.159.152.212:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#@Hope_Net-join-us-on-Telegram
 trojan://auto@162.159.152.212:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🇨🇦117214 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://auto@162.159.153.243:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#@Hope_Net-join-us-on-Telegram
+trojan://auto@162.159.153.243:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#[🇨🇦]t.me/ConfigsHub
+trojan://auto@162.159.153.243:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🇨🇦117273 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
@@ -371,7 +370,9 @@ trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🥔 8
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🦒 7
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🧅 3
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[99486] - Telegram : @V2All
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#برای اتصال دائمی جوین شو💤 TelegramID ⌲Express_freevpn
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇳🇿117252 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#@M4DVPN
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#🕯️ - 20
@@ -420,25 +421,18 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&ins
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
 trojan://saMgiangGt@172.64.80.1:443?security=tls&type=grpc&sni=teo.history-paint.art#@Hope_Net-join-us-on-Telegram
 trojan://saMgiangGt@172.64.80.1:443?security=tls&type=grpc&sni=teo.history-paint.art#@v2ray_configs_pools-join-us-on-Telegram
-trojan://saMgiangGt@172.64.80.1:443?security=tls&type=grpc&sni=teo.history-paint.art#🚀@VPNine1
 trojan://tg-dns68@162.159.152.10:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.10:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦117108 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.152.10:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🚀@VPNine1
-trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@v2ray_configs_pools-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.207:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.207:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦117144 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.152.227:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.227:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦117168 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.152.85:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.85:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[99456] - Telegram : @V2All
-trojan://tg-dns68@162.159.152.85:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://tg-dns68@162.159.152.85:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦117238 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.152.85:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🚀@VPNine1
-trojan://tg-dns68@162.159.153.197:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@GozargahAzad|🏁
 trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[99477] - Telegram : @V2All
-trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.197:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦117246 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@M4DVPN
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Proxy_Se7en
