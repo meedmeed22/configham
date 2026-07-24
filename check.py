@@ -16,7 +16,7 @@ import requests
 
 # تنظیمات کلی
 XRAY_EXE = "xray.exe"
-LINKS_FILE = "links.txt"
+LINKS_FILE = "trojan_port443.txt"
 OUTPUT_FILE = "best_configs.txt"
 CONFIG_FILE = "config.json"  # فایل تنظیمات GitHub
 TEST_URL = "https://www.google.com"
@@ -423,7 +423,7 @@ def save_best_configs(ranked: List[Dict[str, Any]], filename: str, top_n: int = 
         for item in top:
             name = item.get('name', '')
             if name:
-                f.write(f"{item['link']} # {name}\n")
+                f.write(f"{item['link']}\n")
             else:
                 f.write(f"{item['link']}\n")
 
