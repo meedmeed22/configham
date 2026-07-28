@@ -1,11 +1,10 @@
-# Last Update: 2026-07-28 22:53:06 UTC
-# Total Configs: 589
+# Last Update: 2026-07-28 23:53:39 UTC
+# Total Configs: 585
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#🚀@VPNine1
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#@KAFING_2
-trojan://257d8622-6701-4c98-a432-67a9696f58ae@172.67.218.196:443?path=/Novan-ID9&security=tls&insecure=0&host=shazira.app&type=ws&allowInsecure=0&sni=shazira.app#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Selinc
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#ARGO_VPNN_9
 trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws#@M4Dvpn
@@ -64,7 +63,6 @@ trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#⛲77@onecl
 trojan://IQ68037294@firm-warthog.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@hex_proxy ⁴
 trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=optimal-urchin.rooster465.autos#🇵🇱 direct
 trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=optimal-urchin.rooster465.autos#@tootffarangi🍓-24
-trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&sni=optimal-urchin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@one_shop_official
 trojan://MITIVPN@104.16.174.36:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa&security=tls&alpn=http/1.1&insecure=0&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=0&sni=7ib-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR#@hex_proxy ¹
 trojan://MITIVPN@104.16.174.36:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa&security=tls&alpn=http/1.1&insecure=1&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=7ib-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR#@tootffarangi🍓-14
 trojan://MITIVPN@104.16.72.41:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de&security=tls&alpn=http/1.1&insecure=1&host=mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=ikk---7-MiTiVPN----o.aPp-cLoud.IR#@tootffarangi🍓-15
@@ -173,8 +171,7 @@ trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@104.18.1.1:443?path=/in-pdr&securi
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=/in-pdr&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@hex_proxy ¹
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=/in-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@vmesskhodam
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=/in-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/in-pdr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/in-pdr&host=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/in-pdr#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Proxy_Se7en
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Proxy_Se7en
@@ -218,6 +215,7 @@ trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=0&type
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#kurdconfig
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 @FreakConfig
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&type=ws&sni=www.multiplydose.com#🇩🇪All¹⁴ | @BigSmoke_Config
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&type=ws&sni=www.multiplydose.com#🇩🇪All⁴ | @BigSmoke_Config
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&type=ws&sni=www.multiplydose.com#🇩🇪All⁹ | @BigSmoke_Config
@@ -253,7 +251,6 @@ trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱@V2rayng_Fast
 trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@M4Dvpn
 trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@meliproxyy
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#@M4Dvpn
 trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#configprxy
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🚀t.me/iProxyChannel 11
@@ -280,11 +277,10 @@ trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha💒 3
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🥊 5
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#@M4Dvpn
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#configprxy
-trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#V2ray_Alpha💚 10
 trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🚀t.me/iProxyChannel 10
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#irconfiig
