@@ -1,4 +1,5 @@
 config.json
 *.exe
+*.py
 __pycache__/
 *.pyc
