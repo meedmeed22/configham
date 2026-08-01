@@ -1,5 +1,5 @@
-# Last Update: 2026-08-01 14:53:38 UTC
-# Total Configs: 327
+# Last Update: 2026-08-01 15:54:53 UTC
+# Total Configs: 328
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -329,5 +329,6 @@ trojan://humanity@www.hcaptcha.com:443?allowInsecure=1&alpn=http%2F1.1&host=www.
 trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@www.hcaptcha.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.hcaptcha.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@www.hcaptcha.com:443?security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-3531
-trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@www.hcaptcha.com:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-185.44.76.188-5627
+trojan://1b753dd99c1291e87a7b239f2928fedd@www.hcaptcha.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.18.230.121-0075
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@www.hcaptcha.com:443?security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-0181
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@www.hcaptcha.com:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-185.44.76.188-0182
