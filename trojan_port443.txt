@@ -1,5 +1,5 @@
-# Last Update: 2026-08-01 22:46:18 UTC
-# Total Configs: 328
+# Last Update: 2026-08-01 23:50:54 UTC
+# Total Configs: 326
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -21,7 +21,6 @@ trojan://521314@46.202.30.27:443?security=tls&sni=hhtj.hhllfly.kdns.fr&allowinse
 trojan://521314@5.10.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳+@VPNine1#🇩🇪DE-🚀@VPNine1
 trojan://521314@5.10.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳+@WangCai2#🇬🇧129888 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://521314@91.193.58.31:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#🚀t.me/iProxyChannel 2
-trojan://521314@millionaire.levikogjgfdd.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@GozargahAzad|🏁
 trojan://521314@millionaire.levikogjgfdd.ir:443?host=tjplay.lxdxo.kdns.fr&sni=tjplay.lxdxo.kdns.fr&type=ws#👁️‍🗨️48@oneclickvpnkeys
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #3
@@ -60,7 +59,6 @@ trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#V2ray_Alpha💈 4
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#V2ray_Alpha🗽 7
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#V2ray_Alpha🚇 7
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#[🏁]t.me/ConfigsHub
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#configprxy
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#عضویت✨️Unblocked_ir@
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple
@@ -181,7 +179,6 @@ trojan://db0857e9-7f60-4f27-a7c8-3622957e9938@69.46.46.250:443?alpn=h3&ed=2048&e
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel|1
 trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Filtershekan_channel|2
-trojan://humanity@104.16.174.12:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@GozargahAzad|🏁
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Ap_Ir6
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@EXPRESSVPN_420  👈🏻 کانال تلگرام
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
@@ -229,6 +226,7 @@ trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو💤 TelegramID ⌲Express_freevpn
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸@FreakConfig
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸@V2rayng_Fast
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@FarazV2ray
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ProxyMtpVPN-60
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#kurdconfig
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱@FreakConfig
