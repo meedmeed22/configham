@@ -129,7 +129,7 @@ def filter_valid_vless_reality_configs():
                             })
         
         # ذخیره کانفیگ‌های معتبر
-        output_filename = "vless_reality_valid.txt"
+        output_filename = "vless_reality.txt"
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write(f"# Last Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
             f.write(f"# Total Configs: {len(filtered_lines)}\n")
