@@ -1,5 +1,5 @@
-# Last Update: 2026-08-07 16:44:08 UTC
-# Total Configs: 109
+# Last Update: 2026-08-07 17:41:56 UTC
+# Total Configs: 112
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -13,6 +13,8 @@ trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tl
 trojan://2Q4nSpOBVHnUlNkXNHZBq7rLd8nwGlWb4Xd5XF/Job4=@65.109.208.236:55109?security=none&headerType=&type=tcp#none
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034/?type=tcp&security=tls&sni=hk.catxstar.com&fp=chrome#🇮🇳ID
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@Farah_VPN 🇮🇳
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 trojan://4CdMaVX1HU@185.126.64.171:52140?security=reality&pbk=1b0NVqs6JX95kOPm0-qNEwxwPMLzvnurVvsz_oWrt0Q&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amd.com&sid=067c3df9#@V2ray_confiig
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#台湾
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#🇹🇼TW
@@ -31,8 +33,8 @@ trojan://BxceQaOe@16.162.22.218:9149/?type=tcp&security=tls&allowInsecure=1#🇸
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@35.76.126.253:29443/?type=tcp&security=tls&allowInsecure=1&fp=chrome#🇭🇰HK
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://COPE-----AZ-----JKVPN@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&host=www.icloud.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.icloud.com#🇩🇪136641 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://COPE-----AZ-----JKVPN@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&host=www.icloud.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.icloud.com#🇩🇪DE-🚀@VPNine1
+trojan://COPE-----AZ-----JKVPN@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?type=tcp&path=/TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=chrome&sni=www.icloud.com&sid=&spx=/#ᴬᴸᴸ🇩🇪➣@JKVPN
 trojan://COPE-----AZ-----JKVPN@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?type=tcp&path=/TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=chrome&sni=www.icloud.com&sid=&spx=/#🇩🇪136768 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#Unknown
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp#@SylphNet | 2026-07-12 21:36
@@ -44,6 +46,9 @@ trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Api
 trojan://MiTiVPN@151.101.130.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
 trojan://MiTiVPN@151.101.66.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#@SylphNet | 2026-06-27 02:22
+trojan://ND91608427@ace-starling.rooster465.autos:443#🇭🇰136797 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://ND91608427@ace-starling.rooster465.autos:443#🇭🇰HK-🚀@VPNine1
+trojan://ND91608427@ace-starling.rooster465.autos:443#🧅90@oneclickvpnkeys
 trojan://ND91608427@careful-tadpole.rooster465.autos:443#🤖20@SHAHSERVER1
 trojan://ND91608427@eager-louse.rooster465.autos:443#🪁5@oneclickvpnkeys
 trojan://ND91608427@fancy-skink.rooster465.autos:443#🪁27@oneclickvpnkeys
@@ -81,7 +86,6 @@ trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2-------------------------------------
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@23.poki-pakipon.ir:21122?mode=gun&security=reality&pbk=0lvMgmUD3hF_mUKoVyUC4JJUKpdffxvkrzqeQOEK9EI&fp=chrome&type=grpc&serviceName=BanV2ray&sni=www.icloud.com&sid=b34e21b58ecc6362#@V2ray_confiig
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@23.poki-pakipon.ir:29577?mode=gun&security=reality&pbk=o3vhkem1orYX43_Y0OJ3FBE-3RKPemagzeIDwhQlEFA&fp=chrome&type=grpc&serviceName=BanV2raya&sni=www.icloud.com&sid=99f3a7a62fe2e90b#@V2ray_confiig
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127/?type=tcp&security=tls&allowInsecure=1&fp=chrome#🧅45@oneclickvpnkeys
-trojan://telegram-id-directvpn@34.250.203.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@34.250.203.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
 trojan://telegram-id-privatevpns@54.155.250.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@V2ray_confiig
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
@@ -89,7 +93,6 @@ trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-paki
 trojan://wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=@91.107.157.137:35558?security=none&headerType=&type=tcp#nyq0u184n2
 trojan://wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=@91.107.157.137:35558?security=none&headerType=none&type=tcp#nyq0u184n2
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#🧅43@oneclickvpnkeys
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
 trojan://yBN5491Fle@179.237.75.149:36029?mode=gun&security=reality&pbk=_tfmzLvkjkTGfsPKgi7lSf4cEN-XgTFVdmXYPUjHf1M&fp=chrome&spx=/&type=grpc&sni=world.yahoo.com:443#@Ap_Ir6
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AKP
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
