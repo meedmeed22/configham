@@ -1,5 +1,5 @@
-# Last Update: 2026-08-08 21:22:03 UTC
-# Total Configs: 102
+# Last Update: 2026-08-08 22:20:20 UTC
+# Total Configs: 100
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -15,10 +15,9 @@ trojan://2Q4nSpOBVHnUlNkXNHZBq7rLd8nwGlWb4Xd5XF/Job4=@www.hcaptcha.com:55109?sec
 trojan://2Q4nSpOBVHnUlNkXNHZBq7rLd8nwGlWb4Xd5XF/Job4=@www.hcaptcha.com:55877?security=none&headerType=&type=tcp#@v2rayNG_Matsuri
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@www.hcaptcha.com:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 trojan://399k3g0fr0we6sd7@www.hcaptcha.com:57990?security=none&headerType=&type=tcp#🇩🇪138270 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://399k3g0fr0we6sd7@www.hcaptcha.com:57990?security=none&headerType=&type=tcp#🇩🇪DE-🚀@VPNine1
 trojan://399k3g0fr0we6sd7@www.hcaptcha.com:57990?security=none&headerType=&type=tcp#🇩🇪138270 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@www.hcaptcha.com:20034/?type=tcp&security=tls&sni=hk.catxstar.com&fp=chrome#🇮🇳ID
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@www.hcaptcha.com:20034?allowInsecure=0&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@Farah_VPN 🇮🇳
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@www.hcaptcha.com:20088?security=tls&sni=hk.catxstar.com#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 trojan://55354c2b8ee339571bd657a9bb9858cc@www.hcaptcha.com:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#台湾
 trojan://55354c2b8ee339571bd657a9bb9858cc@www.hcaptcha.com:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#🇹🇼TW
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.hcaptcha.com:2053/?type=ws&host=v4.ipsb.us.ci&path=/api/v2/check_update&security=tls&sni=v4.ipsb.us.ci&fp=chrome#香港
@@ -59,8 +58,8 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20041/?type=tcp&s
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20041/?type=tcp&security=tls&sni=de.catxstar.com&allowInsecure=1#🇩🇪DE
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20041?allowInsecure=1&fp=chrome#👁️‍🗨️40@SHAHSERVER1
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20041?allowInsecure=1&sni=de.catxstar.com#🐻22@oneclickvpnkeys
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20004?security=tls&sni=hk.catxstar.com#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20066/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#Unknown
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:9450?allowInsecure=1#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 trojan://bu3x1qqcic114jnl@www.hcaptcha.com:45372?security=reality&pbk=EbDIlE_7HRQqoJOqjHQdgPSRG41aDZTIKs1bisiyRR4&headerType=none&fp=chrome&spx=/ae582ab3f998aa9&type=tcp&sni=www-ams.samsung.com&sid=92bc9bd6ac8389#@vmesskhodam
 trojan://ewpvezqjycgfeebg@www.hcaptcha.com:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#کانال تلگرام ما⬅️ange1Vpn@
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@www.hcaptcha.com:13209/?type=tcp&security=tls&sni=207.yuanul.com&allowInsecure=1#🇺🇸 US
@@ -70,21 +69,20 @@ trojan://hGGbs2T6hf@www.hcaptcha.com:8880?security=reality&sni=www.aparat.com&fp
 trojan://humanity.16.174.121:443?path=/assignment&security=tls&insecure=0&host=&type=ws&allowInsecure=0&sni=#@vpnbaz ☂️@kurdconfig
 trojan://humanity.16.174.121:443?path=/assignment&security=tls&insecure=0&host=&type=ws&allowInsecure=0&sni=#@vpnbaz 🍋‍🟩@kurdconfig
 trojan://humanity@www.hcaptcha.com:2000?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
+trojan://humanity@www.hcaptcha.com:2000?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@tootffarangi🍓-2
 trojan://humanity@www.hcaptcha.com:2000?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#@Daily_Configs : کانال تلگرام
 trojan://humanity@www.hcaptcha.com:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#@v2rayng3
 trojan://humanity@www.hcaptcha.com:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
 trojan://k2Go3Q6dN+fFOMdPuCKbPhnmez/2niJCRApdrrVYuws=@www.hcaptcha.com:55877?security=none&headerType=&type=tcp#@v2rayNG_Matsuri
-trojan://kkzh2prsyr2ik47as615@www.hcaptcha.com:57142?allowInsecure=1&fp=chrome&sni=static.rutube.ru#🧅45@oneclickvpnkeys
+trojan://kkzh2prsyr2ik47as615@www.hcaptcha.com:57142?security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
-trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@www.hcaptcha.com:22880?mode=gun&security=reality&pbk=FoQQCnRBm8oPxEF_pNVgBkw8Enue9jtIdbfrqofDvhk&fp=chrome&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=8025424fb0cae924#MTMVPN 29
 trojan://telegram-id-directvpn@www.hcaptcha.com:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
 trojan://uRkZYGid1r@www.hcaptcha.com:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@www.hcaptcha.com:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
 trojan://wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=@www.hcaptcha.com:35558?security=none&headerType=&type=tcp#nyq0u184n2
 trojan://wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=@www.hcaptcha.com:35558?security=none&headerType=none&type=tcp#nyq0u184n2
 trojan://y3b03zx3tznhyo538p4c@www.hcaptcha.com:53261?allowInsecure=1&fp=chrome&sni=speedtest.tinkoff.ru#🧅43@oneclickvpnkeys
-trojan://y3b03zx3tznhyo538p4c@www.hcaptcha.com:53261?security=tls#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
 trojan://yBN5491Fle@www.hcaptcha.com:36029?mode=gun&security=reality&pbk=_tfmzLvkjkTGfsPKgi7lSf4cEN-XgTFVdmXYPUjHf1M&fp=chrome&spx=/&type=grpc&sni=world.yahoo.com:443#@Ap_Ir6
 trojan://6kcro2JWRvYBom13BJWnb89RYTrQtG70KBhE3arb9T4%3D@www.hcaptcha.com:55109?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 trojan://Mehdi1234@www.hcaptcha.com:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
