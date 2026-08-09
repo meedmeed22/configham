@@ -1,4 +1,4 @@
-# Last Update: 2026-08-09 13:42:36 UTC
+# Last Update: 2026-08-09 14:26:36 UTC
 # Total Configs: 86
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
@@ -89,4 +89,4 @@ trojan://UO36402987@definite-ladybird.rooster465.autos:443#%3E%3E%40oneclickvpnk
 trojan://UO36402987@warm-bass.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#%3E%3E%40configV2rayNG%3A%3AKR
 trojan://humanity@www.hcaptcha.com:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2372
+trojan://d1960ba9f0f6353353994fa844cf817b@www.hcaptcha.com:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.180.201-0164
