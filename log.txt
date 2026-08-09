@@ -1,0 +1,1735 @@
+2026-08-09 14:16:50,389 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:16:51,450 [INFO] Successfully extracted 0 proxy links.
+2026-08-09 14:16:51,450 [ERROR] No valid configurations extracted. Exiting.
+2026-08-09 14:17:02,810 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:17:03,544 [INFO] Successfully extracted 0 proxy links.
+2026-08-09 14:17:03,544 [ERROR] No valid configurations extracted. Exiting.
+2026-08-09 14:17:05,018 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:17:06,097 [INFO] Successfully extracted 0 proxy links.
+2026-08-09 14:17:06,099 [ERROR] No valid configurations extracted. Exiting.
+2026-08-09 14:17:13,543 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:17:14,825 [INFO] Successfully extracted 0 proxy links.
+2026-08-09 14:17:14,825 [ERROR] No valid configurations extracted. Exiting.
+2026-08-09 14:17:27,294 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:17:28,029 [INFO] Successfully extracted 0 proxy links.
+2026-08-09 14:17:28,029 [ERROR] No valid configurations extracted. Exiting.
+2026-08-09 14:19:57,670 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:19:59,197 [INFO] Successfully extracted 0 proxy links.
+2026-08-09 14:19:59,198 [ERROR] No valid configurations extracted. Exiting.
+2026-08-09 14:21:38,181 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:21:39,420 [INFO] Successfully extracted 623 proxy links.
+2026-08-09 14:21:39,420 [INFO] Starting execution engine for 623 configurations...
+2026-08-09 14:21:39,435 [INFO] [FAILED] اگه میخوای قطع نشی جوین شو : @farsiproxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] Server 19 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] Server 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 🇺🇸 (7) | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 🦉@FreeConfigForYou | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] @Begoo_VPN ²⁵⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] @Begoo_VPN ²⁵⁰ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 🇩🇪All² | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 🇩🇪All¹² | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 芬兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 芬兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,435 [INFO] [FAILED] 法国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,451 [INFO] [FAILED] 希腊 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,453 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,454 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,455 [INFO] [FAILED] @Proxy_mtm 18 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,456 [INFO] [FAILED] @vpnserverrr | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,456 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,457 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,458 [INFO] [FAILED] TEL:Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,459 [INFO] [FAILED] @v2rayngzendegimamad🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,460 [INFO] [FAILED] @Net2ray Fi🇫🇮 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,461 [INFO] [FAILED] 🇩🇪DE_194_@Surfboardv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,462 [INFO] [FAILED] @hex_proxy ⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,462 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,463 [INFO] [FAILED] 🌽@NormanConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,464 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,465 [INFO] [FAILED] 🇪🇪 Join+Telegram:@Farah_VPN 🇪🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,466 [INFO] [FAILED] 🌽@NormanConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,467 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,468 [INFO] [FAILED] @CUSTOMVPNSERVER | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,469 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,470 [INFO] [FAILED] 🇹🇷TR-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,471 [INFO] [FAILED] TEL:Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,472 [INFO] [FAILED] 🦉@FreeConfigForYou | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,472 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,473 [INFO] [FAILED] 比利时 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,474 [INFO] [FAILED] 比利时 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,475 [INFO] [FAILED] @Proxy_mtm 14 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,476 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,477 [INFO] [FAILED] @confiig_hub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,478 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,478 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,479 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,480 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,481 [INFO] [FAILED] 🇷🇺@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇷🇺@irconfiig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] @V2rayi_net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] @Net2ray Germany 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇩🇪DE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇺🇸US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🟢🇺🇸US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] @B2vasl | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] [17347] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇬🇧 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇬🇧138420 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇬🇧GB-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] [🏁]t.me/ConfigsHub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇬🇧 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇬🇧138428 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] 🇬🇧GB-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,482 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪138412 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪BE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🔵@chillguy_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪138411 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪BE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇧🇪BE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,498 [INFO] [FAILED] 🇫🇷138416 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 🇬🇧138427 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 🇬🇧ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 🇬🇧GB-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 🇺🇸US-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] @V2rayi_net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 日本 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 土耳其 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️495🌐🆕️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] %FREE_VPN02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] @Maznet -SOS503 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 🏳️ Join+Telegram:@Farah_VPN 🏳️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] 爱沙尼亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,513 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,529 [INFO] [FAILED] @NETMelliAnti | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @IRAN_V2ray1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] 🇸🇪424Mb | @ELiV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] %FREE_VPN02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @V2ray_Alpha🧞 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @mtmvpn 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,530 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇩🇪All¹² | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇩🇪All¹⁶ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇩🇪All¹⁷ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇩🇪All⁵ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇩🇪All⁶ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] V2ray_Alpha🤎 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] IR-@V2rayAlpha-14 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] ProxyMtpVPN-193 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] ARGO_VPNN_12 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] ARGO_VPNN_15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] vpnsal | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,545 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇪🇪EE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] چنل عضو شو @v2ra_config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇹🇷TR | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇯🇵@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇭🇺 Join+Telegram:@Farah_VPN 🇭🇺 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] MDvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] MDvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇩🇪 | @MDvpnSEC | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] Продлите в боте @opengatevpn_bot - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] ☝️ Подключите, чтобы зайти в TG ☝️ - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🇪🇺  👉 ‼️📱 VPN для Telegram ‼️👈 - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 👇 Подключите, чтобы зайти в TG 👇 - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] 🚨 Ваша подписка истекла - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,561 [INFO] [FAILED] @Begoo_VPN ²⁵¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] Tel-@ProxyMtAlpha🥕 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] @V2ray_Alpha👜 12 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] @mtmvpn 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] @musiclovers85😍🔥🔥 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] Tel-@ProxyMtAlpha🪄 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 𝗝𝗼𝗶𝗻 ➠ @TAK_VPN12 جوین چنل | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] @EVAY_VPN 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 2🇫🇷 @V2RAYNG_IP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] vpnsal | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 🇫🇷 direct | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 🔥| Dynamic IP | All Net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 🔥| @ansooyefilter | All Net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,577 [INFO] [FAILED] 俄罗斯 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] MTMVPN 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] MTMVPN 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 🔥 @free_conf_iran 🔥 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 🔥 @free_conf_iran 🔥 10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 🔥 @free_conf_iran 🔥 8 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @tootffarangi🍓-8 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 拉脱维亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 瑞典 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] @tootffarangi🍓-2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,592 [INFO] [FAILED] 🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] MTMVPN 16 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @Arvand_soul❤️🧑‍💻 کانفیگ ملی در #14 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @Daily_Configs : کانال تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @Daily_Configs : کانال تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️504🌐🆕️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] 🤴5@SHAHSERVER1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] 🤴9@SHAHSERVER1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] telegram:-VpnProSec TCP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] IR-@V2rayAlpha-7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] [🇩🇪]t.me/ConfigsHub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,608 [INFO] [FAILED] 🇩🇪  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇩🇪138419 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇩🇪DE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇩🇪138419 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] MTMVPN 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] @tootffarangi🍓-15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] ARGO_VPNN_6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] 🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,623 [INFO] [FAILED] @Hope_Net-join-us-on-Telegram | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] 🌍138442 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] 🇷🇺@ELiV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] 🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] Tel-@Azaranv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] 🦠kakajan@🎖سرور5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @fastkanfig واسه کانفیگای جدید عضو باشین | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @outline_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] ARGO_VPNN_15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] Tel-@ProxyMtAlpha⛩️ 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @MDvpnSec-New⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @NormanConfig⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,639 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] ARGO_VPNN_4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] ARGO_VPNN_5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] ARGO_VPNN_6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @Begoo_VPN ²⁴⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] 🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @v2ray_phoenix | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] ⚫ 49 • @spotfyhits ❤ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] ARGO_VPNN_1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,655 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,670 [INFO] [FAILED] 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,672 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,673 [INFO] [FAILED] Norman | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,674 [INFO] [FAILED] @MDvpnSec-New¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,675 [INFO] [FAILED] @NormanConfig¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,676 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,677 [INFO] [FAILED] 🇬🇧  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,678 [INFO] [FAILED] 🇷🇺138409 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,678 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,679 [INFO] [FAILED] 🇺🇸  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,680 [INFO] [FAILED] 🇷🇺138413 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,681 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,682 [INFO] [FAILED] 🇸🇪 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,682 [INFO] [FAILED] 🇺🇸  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,683 [INFO] [FAILED] %FREE_VPN02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,684 [INFO] [FAILED] ARGO_VPNN_10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,685 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,686 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,687 [INFO] [FAILED] MTMVPN 20 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,688 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,689 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,690 [INFO] [FAILED] MTMVPN 17 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,691 [INFO] [FAILED] 🇩🇪All⁵ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,692 [INFO] [FAILED] 🇳🇱NL-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,693 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,694 [INFO] [FAILED] 🇭🇰HK | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,695 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,695 [INFO] [FAILED] 🇭🇰香港 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,696 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,697 [INFO] [FAILED]  @MTMVPN 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,697 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,698 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,700 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,700 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,701 [INFO] [FAILED] @configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,702 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,703 [INFO] [FAILED] @vmess_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,704 [INFO] [FAILED] برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,705 [INFO] [FAILED] ✅  @vistav2ray  👈👈کانال ما ✅ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,706 [INFO] [FAILED] 🇩🇪@V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,707 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,708 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,708 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,709 [INFO] [FAILED] @VConfing | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,710 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,710 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,712 [INFO] [FAILED] Tel-@ProxyMtAlpha🪄 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,712 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,713 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,714 [INFO] [FAILED] ‎V2ray_Alpha🐺 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,714 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,715 [INFO] [FAILED] ✅  @vistav2ray  👈👈کانال ما ✅ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,716 [INFO] [FAILED] 🇩🇪@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,717 [INFO] [FAILED] 🇩🇪@V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,719 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,720 [INFO] [FAILED] Tel-@ProxyMtAlpha🐽 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,721 [INFO] [FAILED] برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,722 [INFO] [FAILED] [17342] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,723 [INFO] [FAILED] canfingV2rayNG-349 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,723 [INFO] [FAILED] @TanhaNet⭐️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,724 [INFO] [FAILED] ARGO_VPNN_13 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,725 [INFO] [FAILED] 🇸🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,726 [INFO] [FAILED] 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,727 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,727 [INFO] [FAILED] https://t.me/ConfigX2ray 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,728 [INFO] [FAILED] 𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,729 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,730 [INFO] [FAILED] 🇩🇪All¹ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,730 [INFO] [FAILED] 🇩🇪All¹³ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,732 [INFO] [FAILED] 🇩🇪All¹¹ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,733 [INFO] [FAILED] 🇩🇪All⁷ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,734 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,735 [INFO] [FAILED] @V2ray_Alpha👜 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,736 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,737 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,738 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,739 [INFO] [FAILED] @hex_proxy ⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,739 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,740 [INFO] [FAILED] @tootffarangi🍓-13 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,741 [INFO] [FAILED] @vmesc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,742 [INFO] [FAILED] Tel-@ProxyMtAlpha⛑️ 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,743 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,743 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,744 [INFO] [FAILED] برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,745 [INFO] [FAILED] ‎Tel-@ProxyMtAlpha🐽 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,745 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,746 [INFO] [FAILED] 🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,747 [INFO] [FAILED] 俄罗斯 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,748 [INFO] [FAILED] 🇮🇳IN | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,749 [INFO] [FAILED] 印度 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,751 [INFO] [FAILED] 🇮🇳IN | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,752 [INFO] [FAILED] 瑞典 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,753 [INFO] [FAILED] 拉脱维亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,754 [INFO] [FAILED] 🇱🇻vless | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,755 [INFO] [FAILED] T.me/Vpn_Mafia 🇫🇮 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,755 [INFO] [FAILED] @v2rayngzendegimamad🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,756 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,757 [INFO] [FAILED] • 🇮🇷 | 𝗜𝗿𝗮𝗻 - @HesarWeb | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,758 [INFO] [FAILED] 爱沙尼亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,759 [INFO] [FAILED] 🇩🇪@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,759 [INFO] [FAILED] 🇫🇮FI-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,760 [INFO] [FAILED] 🇫🇮FI-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,761 [INFO] [FAILED] @ansooyefilter | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,762 [INFO] [FAILED] 🇩🇪All⁴ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,763 [INFO] [FAILED] 🇩🇪All⁶ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,763 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,764 [INFO] [FAILED] @configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,765 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,767 [INFO] [FAILED] متصل در زمان ملی شدن @fastkanfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,768 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,769 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,769 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,770 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,771 [INFO] [FAILED] 🇺🇸@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,772 [INFO] [FAILED] 🇺🇸@V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,772 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,773 [INFO] [FAILED] @VEGAAS_VPN丨چنل تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,774 [INFO] [FAILED] @v2ray_phoenix | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,775 [INFO] [FAILED] ProxyMtpVPN-402 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,775 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,776 [INFO] [FAILED] 🇩🇪@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,777 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,778 [INFO] [FAILED] 西班牙 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,779 [INFO] [FAILED] 英国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,779 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,780 [INFO] [FAILED] @outline_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,781 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,783 [INFO] [FAILED] ✅ t.me/bigAVPN ایران آزاد 👑 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,784 [INFO] [FAILED] @GozargahAzad|🇦🇿 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,785 [INFO] [FAILED] @GozargahAzad|🏁 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,786 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,787 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,787 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,788 [INFO] [FAILED] / @VConfing | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,789 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,790 [INFO] [FAILED] @Unblocked_ir ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,790 [INFO] [FAILED] @Unblocked_ir ⁵ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,791 [INFO] [FAILED] @V2ray_Alpha🥏 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,792 [INFO] [FAILED] @V2ray_Alpha🧞 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,793 [INFO] [FAILED] @V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,794 [INFO] [FAILED] @VEGAAS_VPN🇿🇦 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,795 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,796 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,797 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,799 [INFO] [FAILED] @irconfiig ☂️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,800 [INFO] [FAILED] @irconfiig 🌊 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,800 [INFO] [FAILED] @irconfiig🥏 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,801 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,802 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,802 [INFO] [FAILED] @tootffarangi🍓-11 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,803 [INFO] [FAILED] @v2raybaaz ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,804 [INFO] [FAILED] @v2raybaaz ⁵ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,805 [INFO] [FAILED] @vmess_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,805 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,806 [INFO] [FAILED] @vpnbaz ☂️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,807 [INFO] [FAILED] @vpnbaz 🌊 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,809 [INFO] [FAILED] Tel-@ProxyMtAlpha⛑️ 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,809 [INFO] [FAILED] Tel-@ProxyMtAlpha🌋 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] [🇦🇿]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] [🇦🇿]t.me/ConfigsHub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] ⚡ @ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] 🇦🇿138414 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] 31.43.191.39:443 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] 31.43.191.39:443 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] • 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] [🇷🇺]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] 🇷🇺138410 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] @v2raybaaz ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,810 [INFO] [FAILED] V2RayyNGvpn🇷🇺 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] VCONFING | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️510🌐🆕️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 🎊 @ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] ❤️‍🔥 کانال تلگرام HiByeVPNN@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 新西兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] 🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,825 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @tootffarangi🍓-6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] MTMVPN 25 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] 🇲🇾MY | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @MdvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] Tel-@ProxyMtAlpha⛑️ 12 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @tootffarangi🍓-13 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,841 [INFO] [FAILED] @MDvpnSEC-New⁷ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @MdvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @tootffarangi🍓-10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] ProxyMtpVPN-441 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] [17328] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @MDvpnSEC-New⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] 🇺🇸 (7) | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @hopev2ray❤️‍🩹 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @tootffarangi🍓-10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @MdvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @Shh_Proxy-New¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @ansooyefilter | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,857 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] 🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] 🇵🇱PL | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @KAFING_2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @MDvpnSec-New¹⁰ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @NormanConfig¹⁰ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @MDvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] 🏁 Reality | https://t.me/FREECONFIGSPLUS ✨ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,872 [INFO] [FAILED] @MARAMBASHI 🫁 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,888 [INFO] [FAILED] @MARAMBASHI 🫂 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,889 [INFO] [FAILED] ConfigV2RayNG 🫁 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,890 [INFO] [FAILED] @tootffarangi🍓-4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,892 [INFO] [FAILED] [🇩🇪]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,892 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,893 [INFO] [FAILED] @Unblocked_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,894 [INFO] [FAILED] @V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,895 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,896 [INFO] [FAILED] @v2ray_phoenix | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,897 [INFO] [FAILED] @v2raybaaz | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,898 [INFO] [FAILED] @v2raybaaz ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,898 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,899 [INFO] [FAILED] [🇩🇪]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,900 [INFO] [FAILED] برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,901 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,902 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,902 [INFO] [FAILED] @ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,904 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,905 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,906 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,907 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,908 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,909 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,910 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,910 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,911 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,912 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,912 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,913 [INFO] [FAILED] @confiig_hub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,914 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,915 [INFO] [FAILED] MTMVPN 15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,916 [INFO] [FAILED] @Capoit | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,917 [INFO] [FAILED] @IRAN_V2RAY1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,918 [INFO] [FAILED] @IRAN_V2ray1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @confiig_hub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] Proxy_mtm 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] 🤴7@SHAHSERVER1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @TEHRANARGO کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @i10VPN⚡ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] ARGO_VPNN_40 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] 🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥 🌱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] ARGO_VPNN_11 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,919 [INFO] [FAILED] T.me/Vpn_Mafia 🇸🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] 法国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] VEGAAS_VPN DUBAI🇦🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @tootffarangi🍓-10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] vpnsal | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] 🇱🇹 direct | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @oPeNFre | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,934 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] ✅ t.me/bigAVPN ایران آزاد 👑 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] 🏳️ Join+Telegram:@Farah_VPN 🏳️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,950 [INFO] [FAILED] @Capoit | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] 🇩🇪All³ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] 🇩🇪All⁸ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @V2ray_Alpha🎾 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] @tootffarangi🍓-4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] Channel : @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] Tel-@ProxyMtAlpha🌋 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] Tel-@ProxyMtAlpha💬 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,966 [INFO] [FAILED] 𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,981 [INFO] [FAILED] @V2ray_Alpha🎾 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,983 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,984 [INFO] [FAILED] 👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:19.56ms | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,985 [INFO] [FAILED] 🇩🇪 @V2RAYNG_IP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,986 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,987 [INFO] [FAILED] @SylphNet | 2026-06-27 02:02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,988 [INFO] [FAILED] @hopev2ray💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,988 [INFO] [FAILED] IR-@V2rayAlpha-15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,989 [INFO] [FAILED] • 🇺🇸 | 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀 - @HesarWeb | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,990 [INFO] [FAILED] >>@configV2rayNG::NL | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,991 [INFO] [FAILED] >>@configV2rayNG::NL | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,992 [INFO] [FAILED] >>@freeland8::DE | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,993 [INFO] [FAILED] >>@v2rayng_fast::LT | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,993 [INFO] [FAILED] @Everyday_VPN | 01 🇩🇪⚡️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:21:39,996 [INFO] ============================================================
+2026-08-09 14:21:39,996 [INFO] Evaluation complete!
+2026-08-09 14:21:39,997 [INFO] Total Evaluated : 623
+2026-08-09 14:21:39,999 [INFO] Valid Configs   : 0
+2026-08-09 14:21:40,000 [INFO] Top Saved       : 0 -> best_configs.txt
+2026-08-09 14:21:40,000 [INFO] Report Generated: report.json
+2026-08-09 14:21:40,000 [INFO] Failures Logged : failed_configs.txt
+2026-08-09 14:21:40,000 [INFO] ============================================================
+2026-08-09 14:27:25,638 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 14:27:26,419 [INFO] Successfully extracted 397 proxy links.
+2026-08-09 14:27:26,419 [INFO] Starting execution engine for 397 configurations...
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,419 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,435 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,451 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,466 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,482 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,497 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,513 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,515 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,516 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,517 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,518 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,518 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,519 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,520 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,521 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,521 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,522 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,523 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,524 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,525 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,526 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,526 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,527 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,528 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,529 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,530 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,531 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,532 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,533 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,534 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,534 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,535 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,536 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,537 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,538 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,538 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,539 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,540 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,540 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,541 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,542 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,543 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,544 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,560 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,575 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,591 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,607 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,622 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,638 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,640 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,640 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,641 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,642 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,643 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,644 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,644 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,645 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,646 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,647 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,648 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,648 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,649 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,650 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,651 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,652 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,652 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,653 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,654 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,656 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,657 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,657 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,658 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,659 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,660 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,661 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,662 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,663 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,663 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,664 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,664 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,665 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,666 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,667 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,668 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,669 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,684 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,700 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,716 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,731 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,734 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,734 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,735 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,735 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,736 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,737 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,738 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,739 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,739 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,740 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,741 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,742 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,743 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,743 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,744 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,745 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,746 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,746 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,747 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,749 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,750 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,751 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,752 [INFO] [FAILED] EPODONIOS | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,753 [INFO] [FAILED] Shadowsocks | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 14:27:26,754 [INFO] ============================================================
+2026-08-09 14:27:26,754 [INFO] Evaluation complete!
+2026-08-09 14:27:26,754 [INFO] Total Evaluated : 397
+2026-08-09 14:27:26,754 [INFO] Valid Configs   : 0
+2026-08-09 14:27:26,755 [INFO] Top Saved       : 0 -> best_configs.txt
+2026-08-09 14:27:26,755 [INFO] Report Generated: report.json
+2026-08-09 14:27:26,755 [INFO] Failures Logged : failed_configs.txt
+2026-08-09 14:27:26,755 [INFO] ============================================================
+2026-08-09 17:54:25,482 [INFO] Fetching subscription from: https://raw.githubusercontent.com/meedmeed22/configham/main/vless_reality.txt
+2026-08-09 17:54:26,715 [INFO] Successfully extracted 658 proxy links.
+2026-08-09 17:54:26,731 [INFO] Starting execution engine for 658 configurations...
+2026-08-09 17:54:26,731 [INFO] [FAILED] اگه میخوای قطع نشی جوین شو : @farsiproxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] Server 19 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] Server 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 🇺🇸 (7) | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 🦉@FreeConfigForYou | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] @Begoo_VPN ²⁵⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] @Begoo_VPN ²⁵⁰ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 🇩🇪All² | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 🇩🇪All¹² | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 芬兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 芬兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 法国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,731 [INFO] [FAILED] 希腊 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] @Proxy_mtm 18 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] @vpnserverrr | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] TEL:Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] @v2rayngzendegimamad🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] @Net2ray Fi🇫🇮 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] 🇩🇪DE_194_@Surfboardv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] @hex_proxy ⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] 🌽@NormanConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] 🌽@NormanConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] 🇩🇪138605 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] 🇩🇪DE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,746 [INFO] [FAILED] 🌍138678 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] 🔰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] 🌍138678 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @CUSTOMVPNSERVER | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] TEL:Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] 🦉@FreeConfigForYou | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] 比利时 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] 比利时 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @Proxy_mtm 14 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @confiig_hub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,762 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] filembad-108 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] 🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] 🇷🇺@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] 🇷🇺@irconfiig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @V2rayi_net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] [17487] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] 🇺🇸138620 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] 🇩🇪138617 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] 🇩🇪DE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,778 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] [17490] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] 🇦🇪138621 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] 🇦🇪AE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] 🇫🇮138616 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] [17491] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] 🇫🇮FI-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,793 [INFO] [FAILED] 🇩🇪138612 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 🇩🇪DE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] [17488] - Telegram : @V2All | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 🇺🇸138619 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 🇺🇸US-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @Net2ray Germany 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 🇩🇪 germany v3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 🇺🇸US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] 🟢🇺🇸US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,809 [INFO] [FAILED] @B2vasl | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] 🇬🇧 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] 🇬🇧 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] Channel : @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] 🇧🇪 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] Channel : @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] 🇧🇪  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] 🇧🇪  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,824 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] 🇬🇧ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @V2rayi_net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] 日本 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] 土耳其 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️495🌐🆕️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] %FREE_VPN02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @Maznet -SOS503 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] 爱沙尼亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @NETMelliAnti | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,840 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @IRAN_V2ray1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] 🇸🇪424Mb | @ELiV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] %FREE_VPN02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @V2ray_Alpha🧞 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @mtmvpn 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,856 [INFO] [FAILED] 🇩🇪All¹² | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇩🇪All¹⁶ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇩🇪All¹⁷ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇩🇪All⁵ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇩🇪All⁶ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] V2ray_Alpha🤎 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] IR-@V2rayAlpha-14 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] ARGO_VPNN_12 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] ARGO_VPNN_15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] vpnsal | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] چنل عضو شو @v2ra_config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇹🇷TR | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,871 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,887 [INFO] [FAILED] 🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,887 [INFO] [FAILED] MDvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,887 [INFO] [FAILED] MDvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,887 [INFO] [FAILED] 🇩🇪 | @MDvpnSEC | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,887 [INFO] [FAILED] Продлите в боте @opengatevpn_bot - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] ☝️ Подключите, чтобы зайти в TG ☝️ - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] 🇪🇺  👉 ‼️📱 VPN для Telegram ‼️👈 - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] 👇 Подключите, чтобы зайти в TG 👇 - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] 🚨 Ваша подписка истекла - @Raydikalx | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] @Begoo_VPN ²⁵¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] Tel-@ProxyMtAlpha🥕 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] @V2ray_Alpha👜 12 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] @mtmvpn 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] Tel-@ProxyMtAlpha🪄 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,903 [INFO] [FAILED] 𝗝𝗼𝗶𝗻 ➠ @TAK_VPN12 جوین چنل | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] @EVAY_VPN 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 2🇫🇷 @V2RAYNG_IP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] vpnsal | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 🇫🇷 direct | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 🔥| Dynamic IP | All Net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 🔥| @ansooyefilter | All Net | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 俄罗斯 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,918 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] MTMVPN 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] MTMVPN 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] 🔥 @free_conf_iran 🔥 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] 🔥 @free_conf_iran 🔥 10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] 🔥 @free_conf_iran 🔥 8 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @tootffarangi🍓-8 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] 拉脱维亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] 瑞典 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @tootffarangi🍓-2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] MTMVPN 16 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,934 [INFO] [FAILED] @Arvand_soul❤️🧑‍💻 کانفیگ ملی در #14 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @Daily_Configs : کانال تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @Daily_Configs : کانال تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️504🌐🆕️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] 🤴5@SHAHSERVER1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] 🤴9@SHAHSERVER1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] telegram:-VpnProSec TCP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] IR-@V2rayAlpha-7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] Channel : @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] 🇩🇪  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,949 [INFO] [FAILED] MTMVPN 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 🇷🇺138592 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] @tootffarangi🍓-15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] ARGO_VPNN_6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 🇷🇺@ELiV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] Tel-@Azaranv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] 🦠kakajan@🎖سرور5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,965 [INFO] [FAILED] @fastkanfig واسه کانفیگای جدید عضو باشین | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @outline_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] ARGO_VPNN_15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] Tel-@ProxyMtAlpha⛩️ 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @MDvpnSec-New⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @NormanConfig⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] ARGO_VPNN_4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] ARGO_VPNN_5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] ARGO_VPNN_6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,981 [INFO] [FAILED] @Begoo_VPN ²⁴⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @v2ray_phoenix | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] ⚫ 49 • @spotfyhits ❤ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] ARGO_VPNN_1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] Norman | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @MDvpnSec-New¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] @NormanConfig¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🇬🇧  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🇺🇸  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🇸🇪 ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:26,996 [INFO] [FAILED] 🇺🇸  ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] %FREE_VPN02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] ARGO_VPNN_10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] MTMVPN 20 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] MTMVPN 17 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🇳🇱138645 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🔵@chillguy_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🇳🇱NL-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🇷🇺138591 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🇷🇺RU-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🇭🇰HK | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] 🇭🇰香港 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,012 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED]  @MTMVPN 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @vmess_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] ✅  @vistav2ray  👈👈کانال ما ✅ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] 🇩🇪@V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @VConfing | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] Tel-@ProxyMtAlpha🪄 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,027 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] ‎V2ray_Alpha🐺 3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] ✅  @vistav2ray  👈👈کانال ما ✅ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 🇩🇪@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 🇩🇪@V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] Tel-@ProxyMtAlpha🐽 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] @TanhaNet⭐️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] ARGO_VPNN_13 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 🇸🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] https://t.me/ConfigX2ray 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 🇩🇪All¹ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,043 [INFO] [FAILED] 🇩🇪All¹³ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,059 [INFO] [FAILED] 🇩🇪All¹¹ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] 🇩🇪All⁷ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @V2ray_Alpha👜 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @hex_proxy ⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @tootffarangi🍓-13 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] @vmesc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] Tel-@ProxyMtAlpha⛑️ 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,074 [INFO] [FAILED] برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] ‎Tel-@ProxyMtAlpha🐽 2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 俄罗斯 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 🇮🇳IN | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 印度 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 🇮🇳IN | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 瑞典 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 拉脱维亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 🇱🇻vless | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] T.me/Vpn_Mafia 🇫🇮 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] @v2rayngzendegimamad🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] • 🇮🇷 | 𝗜𝗿𝗮𝗻 - @HesarWeb | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 爱沙尼亚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 🇵🇱138540 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 🇵🇱PL-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] 🇩🇪@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,090 [INFO] [FAILED] @ansooyefilter | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] 🇩🇪All⁴ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] 🇩🇪All⁶ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] متصل در زمان ملی شدن @fastkanfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] ♏🇺🇸US | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] 🇺🇸138669 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] 🇺🇸@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] 🇺🇸@V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @VEGAAS_VPN丨چنل تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,106 [INFO] [FAILED] @v2ray_phoenix | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] kurdconfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 🇩🇪@FreakConfig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 🏙️🇩🇪DE | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 西班牙 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 英国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] @outline_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] ✅ t.me/bigAVPN ایران آزاد 👑 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] 🇧🇪 Join+Telegram:@Farah_VPN 🇧🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] @Гепард сервер Азербайджан 🇦🇿 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,121 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] / @VConfing | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @Unblocked_ir ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @Unblocked_ir ⁵ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @V2ray_Alpha☠️ 10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @V2ray_Alpha🥏 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @V2ray_Alpha🧞 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @VEGAAS_VPN🇿🇦 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @irconfiig ☂️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @irconfiig 🌊 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,137 [INFO] [FAILED] @irconfiig🥏 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @tootffarangi🍓-11 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @v2raybaaz ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @v2raybaaz ⁵ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @vmess_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @vpnbaz ☂️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] @vpnbaz 🌊 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] Tel-@ProxyMtAlpha⛑️ 9 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] Tel-@ProxyMtAlpha🌋 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] [🇦🇿]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] ☑➜چنلمون: Express_freevpn@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,152 [INFO] [FAILED] ⚡ @ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] • 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] 🇩🇪All⁵ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] [🇷🇺]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @V2ray_Alpha☠️ 5 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @filembad | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,168 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] @v2raybaaz ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] V2RayyNGvpn🇷🇺 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] VCONFING | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️510🌐🆕️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 🎊 @ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 🔵@chillguy_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] ❤️‍🔥 کانال تلگرام HiByeVPNN@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 🇩🇪138580 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,184 [INFO] [FAILED] 🇩🇪DE-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] 新西兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @Ap_Ir6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] Channel : @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @tootffarangi🍓-6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] MTMVPN 25 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] 🇲🇾MY | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,199 [INFO] [FAILED] @hex_proxy ⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @hex_proxy ⁷ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] Tel-@ProxyMtAlpha⛑️ 12 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @tootffarangi🍓-13 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @MDvpnSEC-New⁷ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @tootffarangi🍓-10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @MDvpnSEC-New⁸ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] 🇺🇸 (7) | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @hopev2ray❤️‍🩹 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @tootffarangi🍓-10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @Shh_Proxy-New¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @ansooyefilter | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,215 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] 🇵🇱PL | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @KAFING_2 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @MDvpnSec-New¹⁰ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @NormanConfig¹⁰ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @MDvpnSec | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] 🏁 Reality | https://t.me/FREECONFIGSPLUS ✨ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] 🇲🇩138588 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] 🇲🇩MD-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] 🇬🇧138589 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,231 [INFO] [FAILED] 🇬🇧GB-🚀@VPNine1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] 🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] 🔵@chillguy_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @MARAMBASHI 🫁 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @MARAMBASHI 🫂 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] ConfigV2RayNG 🫁 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @tootffarangi🍓-4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] [🇩🇪]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @FarazV2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @Unblocked_ir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @V2rayng_Fast | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @configprxy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @v2ray_phoenix | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,246 [INFO] [FAILED] @v2raybaaz | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @v2raybaaz ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] [🇩🇪]t.me/ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] 🚀t.me/iProxyChannel | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @Alpha_v2rayIP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @ConfigV2RayNG | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @Napsternetvirani | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] TEL;Father_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,262 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @vmesskhodam | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] کانال تلگرام : Free_VPN_CH@ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @confiig_hub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] MTMVPN 15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @Capoit | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @IRAN_V2RAY1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @IRAN_V2ray1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @confiig_hub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] Proxy_mtm 6 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,277 [INFO] [FAILED] 🤴7@SHAHSERVER1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @TEHRANARGO کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @appsooner کانال تلگرام 🕊️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @bored_vpn | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @erfanandroid | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @i10VPN⚡ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @mehrosaboran | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] ARGO_VPNN_40 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] 🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥 🌱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] ARGO_VPNN_11 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] T.me/Vpn_Mafia 🇸🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] @v2rayng3 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] 法国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,293 [INFO] [FAILED] VEGAAS_VPN DUBAI🇦🇪 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @prrofile_purple | 𝗙𝗮𝗦𝗧 💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @tootffarangi🍓-10 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] vpnsal | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] 🇱🇹 direct | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @oPeNFre | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,309 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] 德国 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @irconfiig 🇹🇷 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] 🇫🇷138663 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @hex_proxy ⁶ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @GozargahAzad|🇫🇷 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @irconfiig 🇹🇷 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] [🇫🇷]t.me/ConfigsHub | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] 🇫🇷138665 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] ✅ t.me/bigAVPN ایران آزاد 👑 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] 🏳️ Join+Telegram:@Farah_VPN 🏳️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,324 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @prrofile_purple  ♥️👈 تلگرام | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @hex_proxy ¹ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @irconfiig 🇹🇷⚡ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] 🇫🇷138664 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @Capoit | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] 🇫🇷138523 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] 🇹🇷 Turkey, irconfiig | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @hex_proxy ⁴ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @freenettir | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] 🇫🇷138627 | ⚡️Telegram = t.me/SOSkeyNET | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,340 [INFO] [FAILED] @hex_proxy ³ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] @hex_proxy ² | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] filembad-569 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] 荷兰 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] 🇩🇪All³ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] 🇩🇪All⁸ | @BigSmoke_Config | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] 🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] @V2ray_Alpha🎾 4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] @icv2ray | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] @tootffarangi🍓-4 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] Channel : @Daily_Configs | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] Channel : @proxy_kafee | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] Tel-@ProxyMtAlpha🌋 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] Tel-@ProxyMtAlpha💬 7 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] 𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,356 [INFO] [FAILED] @V2ray_Alpha🎾 1 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] @meliproxyy | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] 👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:19.56ms | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] 🇩🇪 @V2RAYNG_IP | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] @Selinc | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] @SylphNet | 2026-06-27 02:02 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] @hopev2ray💚 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] IR-@V2rayAlpha-15 | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] • 🇺🇸 | 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀 - @HesarWeb | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] >>@configV2rayNG::NL | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] >>@configV2rayNG::NL | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] >>@freeland8::DE | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] >>@v2rayng_fast::LT | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] [FAILED] @Everyday_VPN | 01 🇩🇪⚡️ | Score: 0.0 | TTFB: 0.0ms
+2026-08-09 17:54:27,371 [INFO] ============================================================
+2026-08-09 17:54:27,371 [INFO] Evaluation complete!
+2026-08-09 17:54:27,371 [INFO] Total Evaluated : 658
+2026-08-09 17:54:27,371 [INFO] Valid Configs   : 0
+2026-08-09 17:54:27,387 [INFO] Top Saved       : 0 -> best_configs.txt
+2026-08-09 17:54:27,387 [INFO] Report Generated: report.json
+2026-08-09 17:54:27,387 [INFO] Failures Logged : failed_configs.txt
+2026-08-09 17:54:27,387 [INFO] ============================================================
+2026-08-09 17:56:34,796 [DEBUG] Using selector: SelectSelector
+2026-08-09 17:56:34,796 [ERROR] Failed to run Xray: 
+2026-08-09 17:56:44,167 [DEBUG] Using selector: SelectSelector
+2026-08-09 17:56:44,167 [ERROR] Failed to run Xray: 
+2026-08-09 17:59:38,095 [ERROR] ❌ Xray test failed: 
+2026-08-09 17:59:55,655 [ERROR] ❌ Xray test failed: 
