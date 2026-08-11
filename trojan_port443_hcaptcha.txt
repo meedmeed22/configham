@@ -1,5 +1,5 @@
-# Last Update: 2026-08-11 08:05:24 UTC
-# Total Configs: 103
+# Last Update: 2026-08-11 09:53:23 UTC
+# Total Configs: 91
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -22,7 +22,6 @@ trojan://41c406e2-12b5-41f2-a329-d0621052d675@www.hcaptcha.com:20034/?type=tcp&s
 trojan://55354c2b8ee339571bd657a9bb9858cc@www.hcaptcha.com:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#台湾
 trojan://55354c2b8ee339571bd657a9bb9858cc@www.hcaptcha.com:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#🇹🇼TW
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.hcaptcha.com:2053/?type=ws&host=v4.ipsb.us.ci&path=/api/v2/check_update&security=tls&sni=v4.ipsb.us.ci&fp=chrome#香港
-trojan://6IlO2S33vN@www.hcaptcha.com:19008?security=reality&sni=www.amazon.com&fp=chrome&pbk=ISCM-pYmXfNflq6Sj8HEqNE6TkCjgaP2ZdosmUg2hBQ&sid=b19a34df&spx=/&type=tcp&headerType=none#🎀𝑀𝐸𝐻𝒟𝐼🎀
 trojan://6kcro2JWRvYBom13BJWnb89RYTrQtG70KBhE3arb9T4=@www.hcaptcha.com:55109?security=none&headerType=&type=tcp#none
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@www.hcaptcha.com:45900?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@www.hcaptcha.com:55682/?type=tcp&security=tls&allowInsecure=1#🇯🇵JP
@@ -31,13 +30,13 @@ trojan://8r<[9'l6hAO#8ZQi@www.hcaptcha.com:8443?path=/ProxyMtAlpha&security=tls&
 trojan://8r<[9'l6hAO#8ZQi@www.hcaptcha.com:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 trojan://8r<[9'l6hAO#8ZQi@www.hcaptcha.com:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
 trojan://BxceQaOe@www.hcaptcha.com:9149/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG
-trojan://BxceQaOe@www.hcaptcha.com:9408?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=t.me/ripaojiedian#@GozargahAzad|🇭🇰
+trojan://BxceQaOe@www.hcaptcha.com:9408/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#日本
 trojan://BxceQaOe@www.hcaptcha.com:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://BxceQaOe@www.hcaptcha.com:39024?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=t.me/ripaojiedian#@GozargahAzad|🇭🇰
+trojan://BxceQaOe@www.hcaptcha.com:39024?allowInsecure=1&sni=t.me/ripaojiedian#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://BxceQaOe@www.hcaptcha.com:29443/?type=tcp&security=tls&allowInsecure=1&fp=chrome#🇭🇰HK
 trojan://BxceQaOe@www.hcaptcha.com:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+trojan://BxceQaOe@www.hcaptcha.com:27161?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://COPE-----AZ-----JKVPN@www.hcaptcha.com:38863?type=tcp&path=/TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=chrome&sni=www.icloud.com&sid=&spx=/#ᴬᴸᴸ🇩🇪➣@JKVPN
-trojan://Ex0qFvkrq8@www.hcaptcha.com:29618?security=reality&sni=www.apple.com&fp=chrome&pbk=217rKU60kLbTtlrMHtySzJaR2skVh3vvON7Qp3LYYwc&sid=6923f7&spx=/&type=tcp&headerType=none#🎀𝑀𝐸𝐻𝒟𝐼🎀
 trojan://HutaoCloud@www.hcaptcha.com:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#Unknown
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@www.hcaptcha.com:54673?security=none&type=tcp#@SylphNet | 2026-07-12 21:36
 trojan://MITIVPN@www.hcaptcha.com:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
@@ -49,15 +48,11 @@ trojan://MiTiVPN@www.hcaptcha.com:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---
 trojan://MiTiVPN@www.hcaptcha.com:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
 trojan://Mitivpn@www.hcaptcha.com:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#@SylphNet | 2026-06-27 02:22
 trojan://PSLCyqO04f@www.hcaptcha.com:54569?security=reality&sni=www.sony.com&fp=chrome&pbk=unAbgUwir2KwgcrXKmwK4mKoXdmEtnLMya542tab3HA&sid=655588de&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#V2RAY_CONFIGS_POOL
-trojan://PSLCyqO04f@www.hcaptcha.com:54569?security=reality&sni=www.sony.com&fp=chrome&pbk=unAbgUwir2KwgcrXKmwK4mKoXdmEtnLMya542tab3HA&sid=655588de&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#freenettir
 trojan://PSLCyqO04f@www.hcaptcha.com:54569?security=reality&sni=www.sony.com&fp=chrome&pbk=unAbgUwir2KwgcrXKmwK4mKoXdmEtnLMya542tab3HA&sid=655588de&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#vbshzqlf
-trojan://PSLCyqO04f@www.hcaptcha.com:54569?security=reality&sni=www.sony.com&fp=chrome&pbk=unAbgUwir2KwgcrXKmwK4mKoXdmEtnLMya542tab3HA&sid=655588de&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇦🇹AT-🚀@VPNine1
 trojan://T9BpZIVMNv@www.hcaptcha.com:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://TgTrWOUNeU@www.hcaptcha.com:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://ZhypIaUNV7@www.hcaptcha.com:40885?security=reality&sni=www.oracle.com&fp=chrome&pbk=azSUijArSjaNwHW63xZtHeazT0zDNh291ipzLUiIy0U&sid=f1e547ac0a54b83a&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#V2RAY_CONFIGS_POOL
-trojan://ZhypIaUNV7@www.hcaptcha.com:40885?security=reality&sni=www.oracle.com&fp=chrome&pbk=azSUijArSjaNwHW63xZtHeazT0zDNh291ipzLUiIy0U&sid=f1e547ac0a54b83a&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#freenettir
 trojan://ZhypIaUNV7@www.hcaptcha.com:40885?security=reality&sni=www.oracle.com&fp=chrome&pbk=azSUijArSjaNwHW63xZtHeazT0zDNh291ipzLUiIy0U&sid=f1e547ac0a54b83a&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#l3y4m252
-trojan://ZhypIaUNV7@www.hcaptcha.com:40885?security=reality&sni=www.oracle.com&fp=chrome&pbk=azSUijArSjaNwHW63xZtHeazT0zDNh291ipzLUiIy0U&sid=f1e547ac0a54b83a&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇦🇹AT-🚀@VPNine1
 trojan://auto@www.hcaptcha.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20041/?type=tcp&security=tls#美国
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@www.hcaptcha.com:20041/?type=tcp&security=tls&sni=de.catxstar.com&allowInsecure=1#🇩🇪DE
@@ -70,23 +65,16 @@ trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@www.hcaptcha.com:13209/?type=tcp&s
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@www.hcaptcha.com:21101/?type=tcp&security=tls&sni=261.yuanul.com&allowInsecure=1#🇰🇷 KR
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@www.hcaptcha.com:23005/?type=tcp&security=tls&sni=82.yuanul.com&allowInsecure=1#🇻🇳 VN
 trojan://glsYVTidVX@www.hcaptcha.com:27972?security=reality&sni=www.amazon.com&fp=chrome&pbk=qB7IgAUfMXgGPdJS-1FyNO3L7A2-5nNUaCU0ogxDo3g&sid=08&spx=/&type=tcp&headerType=none#V2RAY_CONFIGS_POOL
-trojan://glsYVTidVX@www.hcaptcha.com:27972?security=reality&sni=www.amazon.com&fp=chrome&pbk=qB7IgAUfMXgGPdJS-1FyNO3L7A2-5nNUaCU0ogxDo3g&sid=08&spx=/&type=tcp&headerType=none#freenettir
 trojan://glsYVTidVX@www.hcaptcha.com:27972?security=reality&sni=www.amazon.com&fp=chrome&pbk=qB7IgAUfMXgGPdJS-1FyNO3L7A2-5nNUaCU0ogxDo3g&sid=08&spx=/&type=tcp&headerType=none#ymv07iet
-trojan://glsYVTidVX@www.hcaptcha.com:27972?security=reality&sni=www.amazon.com&fp=chrome&pbk=qB7IgAUfMXgGPdJS-1FyNO3L7A2-5nNUaCU0ogxDo3g&sid=08&spx=/&type=tcp&headerType=none#🇦🇹AT-🚀@VPNine1
 trojan://h4WUJtGovf@www.hcaptcha.com:59634?security=reality&sni=www.oracle.com&fp=chrome&pbk=v5cuqmAGUPcUHGnx11YsgE80iC2tcRYRho-0kXbtS2w&sid=6c65a4b78e544321&spx=/&type=tcp&headerType=none#V2RAY_CONFIGS_POOL
-trojan://h4WUJtGovf@www.hcaptcha.com:59634?security=reality&sni=www.oracle.com&fp=chrome&pbk=v5cuqmAGUPcUHGnx11YsgE80iC2tcRYRho-0kXbtS2w&sid=6c65a4b78e544321&spx=/&type=tcp&headerType=none#freenettir
 trojan://h4WUJtGovf@www.hcaptcha.com:59634?security=reality&sni=www.oracle.com&fp=chrome&pbk=v5cuqmAGUPcUHGnx11YsgE80iC2tcRYRho-0kXbtS2w&sid=6c65a4b78e544321&spx=/&type=tcp&headerType=none#ke2d575a
-trojan://h4WUJtGovf@www.hcaptcha.com:59634?security=reality&sni=www.oracle.com&fp=chrome&pbk=v5cuqmAGUPcUHGnx11YsgE80iC2tcRYRho-0kXbtS2w&sid=6c65a4b78e544321&spx=/&type=tcp&headerType=none#🇦🇹AT-🚀@VPNine1
 trojan://humanity@www.hcaptcha.com:2053?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷 direct
 trojan://jUh6yaJKdZ@www.hcaptcha.com:29306?security=reality&pbk=4aecXNGkCW2xX_ETDUWbRfK_Hf_9eipj6GkHLK1QMFw&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=c8848f58611c0a5d#🇺🇸140131 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://k2Go3Q6dN+fFOMdPuCKbPhnmez/2niJCRApdrrVYuws=@www.hcaptcha.com:55877?security=none&headerType=&type=tcp#@v2rayNG_Matsuri
 trojan://kVmEUiVKrN@www.hcaptcha.com:35744?security=reality&sni=www.amazon.com&fp=chrome&pbk=zMYHhLDVUjXI6J095dZIeVcnT58mpSgPEb2i9MkAbFI&sid=92ecf5e583&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#7tzj7a7c
 trojan://kVmEUiVKrN@www.hcaptcha.com:35744?security=reality&sni=www.amazon.com&fp=chrome&pbk=zMYHhLDVUjXI6J095dZIeVcnT58mpSgPEb2i9MkAbFI&sid=92ecf5e583&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#V2RAY_CONFIGS_POOL
-trojan://kVmEUiVKrN@www.hcaptcha.com:35744?security=reality&sni=www.amazon.com&fp=chrome&pbk=zMYHhLDVUjXI6J095dZIeVcnT58mpSgPEb2i9MkAbFI&sid=92ecf5e583&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#freenettir
-trojan://kVmEUiVKrN@www.hcaptcha.com:35744?security=reality&sni=www.amazon.com&fp=chrome&pbk=zMYHhLDVUjXI6J095dZIeVcnT58mpSgPEb2i9MkAbFI&sid=92ecf5e583&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇦🇹AT-🚀@VPNine1
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
-trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@ | 𝗙𝗮𝗦𝗧 💚
 trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#🇫🇷140044 | ⚡️Telegram = t.me/SOSkeyNET
