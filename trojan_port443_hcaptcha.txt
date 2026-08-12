@@ -1,5 +1,5 @@
-# Last Update: 2026-08-12 14:16:05 UTC
-# Total Configs: 91
+# Last Update: 2026-08-12 15:52:38 UTC
+# Total Configs: 95
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -94,4 +94,8 @@ trojan://ND91608427@classic-gator.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%
 trojan://ND91608427@ace-starling.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://UO36402987@definite-ladybird.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://QV31589740@great-krill.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@www.hcaptcha.com:55682?security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-3316
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@www.hcaptcha.com:55682?security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-0268
+trojan://c3a2639c-bb97-41ee-82a7-aa872980fd49@www.hcaptcha.com:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-0084
+trojan://c3a2639c-bb97-41ee-82a7-aa872980fd49@www.hcaptcha.com:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.44.110-0083
+trojan://c3a2639c-bb97-41ee-82a7-aa872980fd49@www.hcaptcha.com:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-0081
+trojan://c3a2639c-bb97-41ee-82a7-aa872980fd49@www.hcaptcha.com:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BA%F0%9F%87%B8US-212.90.123.130-0077
