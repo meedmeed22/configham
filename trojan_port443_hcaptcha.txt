@@ -1,5 +1,5 @@
-# Last Update: 2026-08-12 23:32:38 UTC
-# Total Configs: 89
+# Last Update: 2026-08-13 01:17:43 UTC
+# Total Configs: 90
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@www.hcaptcha.com:22222?allowInsecure=0&sni=trojan
 trojan://telegram-id-directvpn@www.hcaptcha.com:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://uRkZYGid1r@www.hcaptcha.com:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@www.hcaptcha.com:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
+trojan://y3b03zx3tznhyo538p4c@www.hcaptcha.com:53261?security=tls#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=randomized&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%3E%3E%40FreakConfig%3A%3ARU
 trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c%2BzRy5E6E%2B5cE%3D@www.hcaptcha.com:24227?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 trojan://Mehdi1234@www.hcaptcha.com:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
