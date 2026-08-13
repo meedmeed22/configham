@@ -1,5 +1,5 @@
-# Last Update: 2026-08-13 19:52:24 UTC
-# Total Configs: 110
+# Last Update: 2026-08-13 20:33:34 UTC
+# Total Configs: 118
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -32,42 +32,51 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&inse
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#台湾
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ger.aaaa.gay:45900?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682/?type=tcp&security=tls&allowInsecure=1#🇯🇵JP
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://8r<[9'l6hAO#8ZQi@104.21.7.21:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
 trojan://8r<[9'l6hAO#8ZQi@146.103.114.206:8443?path=/ProxyMtAlpha&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
 trojan://AE62539071@chief-cricket.rooster465.autos:443#🛗59@oneclickvpnkeys
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443#🛗48@oneclickvpnkeys
-trojan://AE62539071@distinct-quail.rooster465.autos:443#🇫🇷141726 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://AE62539071@distinct-quail.rooster465.autos:443#🇫🇷FR-🚀@VPNine1
 trojan://AE62539071@distinct-quail.rooster465.autos:443#🛗75@oneclickvpnkeys
 trojan://AE62539071@emerging-weevil.rooster465.autos:443#🛗37@oneclickvpnkeys
-trojan://AE62539071@funny-hen.rooster465.autos:443#🇮🇪141738 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@enough-basilisk.rooster465.autos:443#🇵🇱141920 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@enough-basilisk.rooster465.autos:443#🇵🇱PL-🚀@VPNine1
+trojan://AE62539071@enough-basilisk.rooster465.autos:443#🛗99@oneclickvpnkeys
 trojan://AE62539071@funny-hen.rooster465.autos:443#🇮🇪IE-🚀@VPNine1
 trojan://AE62539071@funny-hen.rooster465.autos:443#🛗90@oneclickvpnkeys
-trojan://AE62539071@healthy-panda.rooster465.autos:443#🇮🇪141735 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@game-firefly.rooster465.autos:443#🇵🇱141919 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@game-firefly.rooster465.autos:443#🇵🇱PL-🚀@VPNine1
+trojan://AE62539071@game-firefly.rooster465.autos:443#🛗98@oneclickvpnkeys
 trojan://AE62539071@healthy-panda.rooster465.autos:443#🇮🇪IE-🚀@VPNine1
 trojan://AE62539071@healthy-panda.rooster465.autos:443#🛗86@oneclickvpnkeys
-trojan://AE62539071@helped-haddock.rooster465.autos:443#🇮🇪141737 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://AE62539071@helped-haddock.rooster465.autos:443#🇮🇪IE-🚀@VPNine1
 trojan://AE62539071@helped-haddock.rooster465.autos:443#🛗89@oneclickvpnkeys
+trojan://AE62539071@kind-stork.rooster465.autos:443#🇮🇪141917 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@kind-stork.rooster465.autos:443#🇮🇪IE-🚀@VPNine1
+trojan://AE62539071@kind-stork.rooster465.autos:443#🛗93@oneclickvpnkeys
 trojan://AE62539071@moved-bluegill.rooster465.autos:443#🛗53@oneclickvpnkeys
-trojan://AE62539071@one-quail.rooster465.autos:443#🇫🇷141728 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://AE62539071@one-quail.rooster465.autos:443#🇫🇷FR-🚀@VPNine1
 trojan://AE62539071@one-quail.rooster465.autos:443#🛗77@oneclickvpnkeys
 trojan://AE62539071@present-warthog.rooster465.autos:443#🛗22@oneclickvpnkeys
 trojan://AE62539071@proper-marlin.rooster465.autos:443#🛗33@oneclickvpnkeys
+trojan://AE62539071@relative-locust.rooster465.autos:443#🛗97@oneclickvpnkeys
 trojan://AE62539071@sterling-macaw.rooster465.autos:443#🛗42@oneclickvpnkeys
 trojan://AE62539071@teaching-gnu.rooster465.autos:443#🛗31@oneclickvpnkeys
 trojan://AE62539071@thorough-falcon.rooster465.autos:443#🛗23@oneclickvpnkeys
-trojan://AE62539071@tough-hermit.rooster465.autos:443#🇫🇷141730 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#[21314] - Telegram : @V2All
+trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#🛗94@oneclickvpnkeys
 trojan://AE62539071@tough-hermit.rooster465.autos:443#🇫🇷FR-🚀@VPNine1
 trojan://AE62539071@tough-hermit.rooster465.autos:443#🛗80@oneclickvpnkeys
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443#🇮🇪141736 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443#🇮🇪IE-🚀@VPNine1
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443#🛗87@oneclickvpnkeys
 trojan://AE62539071@up-dinosaur.rooster465.autos:443#🛗38@oneclickvpnkeys
 trojan://AE62539071@whole-woodcock.rooster465.autos:443#🛗45@oneclickvpnkeys
+trojan://AE62539071@worthy-labrador.rooster465.autos:443#🇮🇪141916 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://AE62539071@worthy-labrador.rooster465.autos:443#🇮🇪IE-🚀@VPNine1
+trojan://AE62539071@worthy-labrador.rooster465.autos:443#🛗92@oneclickvpnkeys
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#🛗46@oneclickvpnkeys
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/?ed&sni=epge.muarua.filegear-sg.me&type=ws#🛗50@oneclickvpnkeys
 trojan://BxceQaOe@16.162.92.128:9408/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#日本
@@ -81,7 +90,6 @@ trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Api
 trojan://MiTiVPN@151.101.130.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
 trojan://MiTiVPN@151.101.66.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#@SylphNet | 2026-06-27 02:22
-trojan://ND91608427@fancy-skink.rooster465.autos:443#🎗️19@oneclickvpnkeys
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://a703fe02-9bdf-4124-a812-0284d0acdf36@13.208.169.24:12308/?type=tcp&security=tls&sni=jp03.ulifeai.com&allowInsecure=1#🇯🇵JP
@@ -100,9 +108,9 @@ trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxM
 trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.76.5.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🏳️ Join+Telegram:@Farah_VPN 🏳️
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
 trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c%2BzRy5E6E%2B5cE%3D@91.107.139.186:24227?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#%3E%3E%40v2nodes%3A%3AJP
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
