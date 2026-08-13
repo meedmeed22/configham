@@ -1,5 +1,5 @@
-# Last Update: 2026-08-13 20:33:34 UTC
-# Total Configs: 118
+# Last Update: 2026-08-13 21:36:55 UTC
+# Total Configs: 119
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -29,6 +29,7 @@ trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&sni
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@www.hcaptcha.com:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#@Selinc
 trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@www.hcaptcha.com:24227?security=none#🛗7@oneclickvpnkeys
 trojan://2EXii6JlhaDvgSiTsC@www.hcaptcha.com:8444/?type=tcp&security=tls&sni=ggboy.ggboyz.online#Trojan-TLS
+trojan://2eutknankxtbgkwcajzt@www.hcaptcha.com:52794?security=tls&sni=193.148.19.213#🇪🇸 Join+Telegram:@Farah_VPN 🇪🇸
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@www.hcaptcha.com:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 trojan://55354c2b8ee339571bd657a9bb9858cc@www.hcaptcha.com:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#台湾
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@www.hcaptcha.com:45900?allowInsecure=0#@Hope_Net-join-us-on-Telegram
@@ -67,7 +68,6 @@ trojan://AE62539071@relative-locust.rooster465.autos:443#🛗97@oneclickvpnkeys
 trojan://AE62539071@sterling-macaw.rooster465.autos:443#🛗42@oneclickvpnkeys
 trojan://AE62539071@teaching-gnu.rooster465.autos:443#🛗31@oneclickvpnkeys
 trojan://AE62539071@thorough-falcon.rooster465.autos:443#🛗23@oneclickvpnkeys
-trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#[21314] - Telegram : @V2All
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#🛗94@oneclickvpnkeys
 trojan://AE62539071@tough-hermit.rooster465.autos:443#🇫🇷FR-🚀@VPNine1
 trojan://AE62539071@tough-hermit.rooster465.autos:443#🛗80@oneclickvpnkeys
@@ -83,6 +83,7 @@ trojan://Aimer@www.hcaptcha.com:2053?host=epge.muarua.filegear-sg.me&path=/?ed&s
 trojan://BxceQaOe@www.hcaptcha.com:9408/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#日本
 trojan://BxceQaOe@www.hcaptcha.com:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@www.hcaptcha.com:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+trojan://BxceQaOe@www.hcaptcha.com:11035?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@www.hcaptcha.com:54673?security=none&type=tcp#@SylphNet | 2026-07-12 21:36
 trojan://MITIVPN@www.hcaptcha.com:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#🚀t.me/iProxyChannel
 trojan://Masir_Sefid@www.hcaptcha.com:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#❤️‍🔥 ک
