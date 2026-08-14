@@ -1,4 +1,4 @@
-# Last Update: 2026-08-13 23:33:16 UTC
+# Last Update: 2026-08-14 01:16:53 UTC
 # Total Configs: 111
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
@@ -84,7 +84,6 @@ trojan://MiTiVPN@www.hcaptcha.com:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---
 trojan://Mitivpn@www.hcaptcha.com:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#@SylphNet | 2026-06-27 02:22
 trojan://T9BpZIVMNv@www.hcaptcha.com:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://TgTrWOUNeU@www.hcaptcha.com:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://VuYgLv9yuc@www.hcaptcha.com:53?type=kcp&security=none&seed=2unY9PSA1n&headerType=dns#[21429] - Telegram : @V2All
 trojan://VuYgLv9yuc@www.hcaptcha.com:53?type=kcp&security=none&seed=2unY9PSA1n&headerType=dns#🇩🇪142004 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://a703fe02-9bdf-4124-a812-0284d0acdf36@www.hcaptcha.com:12308/?type=tcp&security=tls&sni=jp03.ulifeai.com&allowInsecure=1#🇯🇵JP
 trojan://auto@www.hcaptcha.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
@@ -96,15 +95,16 @@ trojan://humanity@www.hcaptcha.com:2053?type=ws&host=www.calmlunch.com&path=/ass
 trojan://humanity@www.hcaptcha.com:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#2🇫🇷@V2RAYNG_IP
 trojan://humanity@www.hcaptcha.com:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#@unblocked_ir
 trojan://humanity@www.hcaptcha.com:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🌐 | @NormanConfig
+trojan://kkzh2prsyr2ik47as615@www.hcaptcha.com:57142?security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://telegram-id-directvpn@www.hcaptcha.com:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@www.hcaptcha.com:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://tunnel-ljlcf@www.hcaptcha.com:8441?security=tls#🏳️ Join+Telegram:@Farah_VPN 🏳️
 trojan://uRkZYGid1r@www.hcaptcha.com:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@www.hcaptcha.com:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
+trojan://y3b03zx3tznhyo538p4c@www.hcaptcha.com:53261?security=tls#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
 trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c%2BzRy5E6E%2B5cE%3D@www.hcaptcha.com:24227?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@www.hcaptcha.com:55682?allowInsecure=1&sni=t11.qifei.app#%3E%3E%40v2nodes%3A%3AJP
 trojan://Mehdi1234@www.hcaptcha.com:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
