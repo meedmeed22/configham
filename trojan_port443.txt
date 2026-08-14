@@ -1,5 +1,5 @@
-# Last Update: 2026-08-14 03:59:06 UTC
-# Total Configs: 111
+# Last Update: 2026-08-14 05:39:19 UTC
+# Total Configs: 136
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -104,13 +104,38 @@ trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🏳️ Join+Telegram:@F
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
-trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c%2BzRy5E6E%2B5cE%3D@91.107.139.186:24227?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
+trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#%3E%3E%40v2nodes%3A%3AJP
+trojan://AE62539071@funny-hen.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://AE62539071@healthy-panda.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://AE62539071@helped-haddock.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://AE62539071@kind-stork.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://AE62539071@chief-cricket.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://AE62539071@emerging-weevil.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://AE62539071@distinct-quail.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://AE62539071@enough-basilisk.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://AE62539071@moved-bluegill.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
+trojan://AE62539071@proper-marlin.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
+trojan://AE62539071@game-firefly.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://AE62539071@sterling-macaw.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
+trojan://AE62539071@teaching-gnu.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://AE62539071@one-quail.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://AE62539071@up-dinosaur.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
+trojan://AE62539071@present-warthog.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://AE62539071@relative-locust.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://AE62539071@worthy-labrador.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://AE62539071@thorough-falcon.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://AE62539071@tough-hermit.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://AE62539071@whole-woodcock.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://ND91608427@fancy-skink.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://ND91608427@classic-gator.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://ND91608427@ace-starling.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://ND91608427@classic-gator.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://UO36402987@definite-ladybird.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://QV31589740@great-krill.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-6246
+trojan://UO36402987@definite-ladybird.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-3400
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0190
