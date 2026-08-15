@@ -1,4 +1,4 @@
-# Last Update: 2026-08-15 12:21:31 UTC
+# Last Update: 2026-08-15 13:24:08 UTC
 # Total Configs: 115
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
