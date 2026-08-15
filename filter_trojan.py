@@ -23,7 +23,7 @@ def filter_trojan_configs():
 
             if 'trojan://' in line:
                 # بررسی پورت 443
-                if not re.search(r'trojan://[^@]+@([^:?]+):443(?:[?/]|$)', line):
+                if re.search(r'trojan://[^@]+@([^:?]+):443(?:[?/]|$)', line):
                     # اضافه کردن به لیست اصلی (بدون تغییر)
                     original_configs.append(line)
                     # تغییر آدرس به www.hcaptcha.com و اضافه به لیست دوم
