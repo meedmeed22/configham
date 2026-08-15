@@ -1,4 +1,4 @@
-# Last Update: 2026-08-15 03:32:00 UTC
+# Last Update: 2026-08-15 04:22:04 UTC
 # Total Configs: 106
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
@@ -18,7 +18,6 @@ trojan://0896373c-7cd9-4221-b50d-9634990d6751@www.hcaptcha.com:38513?allowInsecu
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&alpn=h3, h2, http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#@icv2ray
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&alpn=h3,h2,http/1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&alpn=h3,h2,http/1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#ProxyMtpVPN-49
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#vpnsal
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@www.hcaptcha.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁸ | @BigSmoke_Config
@@ -66,6 +65,7 @@ trojan://ce433528-39fa-4711-bc0d-25a5b1579574@www.hcaptcha.com:12501?allowInsecu
 trojan://ewpvezqjycgfeebg@www.hcaptcha.com:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#کانال تلگرام ما⬅️ange1Vpn@
 trojan://humanity@www.hcaptcha.com:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#2🇫🇷 @V2RAYNG_IP
 trojan://humanity@www.hcaptcha.com:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#2🇫🇷@V2RAYNG_IP
+trojan://kkzh2prsyr2ik47as615@www.hcaptcha.com:57142?security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
 trojan://l6R5znJSPJ@www.hcaptcha.com:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://oRKpDRDR4Y@www.hcaptcha.com:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
