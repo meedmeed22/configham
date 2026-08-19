@@ -17,26 +17,16 @@ import sys
 
 # -------------------- List of at least 20 real public GitHub raw URLs --------------------
 URLS = [
-    "https://raw.githubusercontent.com/freefq/free/master/v2",
-    "https://raw.githubusercontent.com/ssrsub/ssr/master/ssr-sub",
-    "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/sub/shadowsocks",
-    "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray",
-    "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/2023-01-31",
-    "https://raw.githubusercontent.com/Calvin087/v2ray_sub/main/subscribe",
-    "https://raw.githubusercontent.com/kyrolabs/v2ray-configs/main/configs",
-    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/normal",
-    "https://raw.githubusercontent.com/AirportR/speedtest/master/config",
-    "https://raw.githubusercontent.com/amirhosseinchoghaei/amir/main/amir",
-    "https://raw.githubusercontent.com/peymanv2/Config/main/Config",
-    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs.txt",
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal",
-    "https://raw.githubusercontent.com/arshlinux/v2ray-config/main/v2ray",
-    "https://raw.githubusercontent.com/arshlinux/v2ray-config/main/v2ray2",
-    "https://raw.githubusercontent.com/Privoxy-org/privoxy/master/...",  # dummy
-    "https://raw.githubusercontent.com/v2fly/v2ray-config/main/...",
-    "https://raw.githubusercontent.com/XTLS/Xray-example/main/VLESS-TCP-XTLS-WS/config_server.json",
-    "https://raw.githubusercontent.com/AirportR/speedtest/master/config2",
-    "https://raw.githubusercontent.com/Calvin087/v2ray_sub/main/subscribe2",
+    "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt",
+    "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/configs.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.txt",
+    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt",
+    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt",
+    "https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/vless",
+    "https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/vmess",
+    "https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/trojan"
 ]
 
 # -------------------- Helper functions for port extraction --------------------
