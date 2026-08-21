@@ -1,5 +1,5 @@
-# Last Update: 2026-08-21 04:30:16 UTC
-# Total Configs: 524
+# Last Update: 2026-08-21 05:25:15 UTC
+# Total Configs: 518
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -26,6 +26,7 @@ trojan://8r<[9'l6hAO#8ZQi@www.hcaptcha.com:443?path=/tr&security=tls&insecure=1&
 trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@www.hcaptcha.com:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&allowInsecure=1#美国
 trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@www.hcaptcha.com:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&fp=chrome#美国
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=bright-baboon.rooster465.autos#[25704] - Telegram : @V2All
+trojan://AE62539071@www.hcaptcha.com:443?security=tls&sni=coherent-newt.rooster465.autos#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://AE62539071@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#@V2ray_Alpha🐌 8
 trojan://AE62539071@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-impala.rooster465.autos#[25714] - Telegram : @V2All
 trojan://AE62539071@www.hcaptcha.com:443?sni=one-quail.rooster465.autos#🍏61@oneclickvpnkeys
@@ -34,6 +35,7 @@ trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=emerging-weevil.rooster46
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=thorough-falcon.rooster465.autos#🍏20@oneclickvpnkeys
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=tolerant-mosquito.rooster465.autos#🍏74@oneclickvpnkeys
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=dominant-jaguar.rooster465.autos#🐦‍🔥94@oneclickvpnkeys
+trojan://AE62539071@www.hcaptcha.com:443?allowInsecure=0&sni=dear-hermit.rooster465.autos#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=dear-hermit.rooster465.autos#🐦‍🔥88@oneclickvpnkeys
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=arriving-colt.rooster465.autos#🐦‍🔥95@oneclickvpnkeys
 trojan://AE62539071@www.hcaptcha.com:443?fp=chrome&sni=sharing-duck.rooster465.autos#🐦‍🔥87@oneclickvpnkeys
@@ -44,11 +46,9 @@ trojan://AE62539071@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none
 trojan://AE62539071@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=whole-woodcock.rooster465.autos#https:// 4
 trojan://AE62539071@www.hcaptcha.com:443?type=tcp&security=tls&headerType=none&sni=whole-woodcock.rooster465.autos&insecure=0&allowInsecure=0#@meliproxyy
 trojan://AE62539071@www.hcaptcha.com:443?type=tcp&security=tls&headerType=none&sni=whole-woodcock.rooster465.autos&insecure=0&allowInsecure=0#configprxy
-trojan://AE62539071@www.hcaptcha.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+trojan://AE62539071@www.hcaptcha.com:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+trojan://AE62539071@www.hcaptcha.com:443?allowInsecure=1#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
 trojan://AE62539071@www.hcaptcha.com:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#France 🇫🇷
-trojan://AE62539071@www.hcaptcha.com:443?security=tls&sni=strong-haddock.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
-trojan://AE62539071@www.hcaptcha.com:443?allowInsecure=1#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
-trojan://AE62539071@www.hcaptcha.com:443?allowInsecure=1#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://EQ30679154@www.hcaptcha.com:443/?type=tcp&security=tls&sni=novel-kodiak.rooster465.autos&fp=chrome#🇰🇷KR
 trojan://EQ30679154@www.hcaptcha.com:443/?type=tcp&security=tls&fp=chrome#新加坡-09
 trojan://EQ30679154@www.hcaptcha.com:443/?type=tcp&security=tls&sni=humorous-snake.rooster465.autos&fp=chrome#日本
@@ -74,12 +74,10 @@ trojan://FH72359861@www.hcaptcha.com:443?fp=chrome&sni=engaging-toucan.rooster46
 trojan://FH72359861@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pro-crane.rooster465.autos#@hex_proxy ¹
 trojan://FH72359861@www.hcaptcha.com:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pro-crane.rooster465.autos#@meliproxyy
 trojan://FH72359861@www.hcaptcha.com:443?sni=pro-crane.rooster465.autos#🐦‍🔥11@oneclickvpnkeys
-trojan://FH72359861@www.hcaptcha.com:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
-trojan://FH72359861@www.hcaptcha.com:443?allowInsecure=1&sni=modern-bedbug.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
-trojan://FH72359861@www.hcaptcha.com:443?allowInsecure=1&sni=primary-leech.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://FH72359861@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=primary-leech.rooster465.autos#@hex_proxy ⁸
 trojan://FH72359861@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@hex_proxy ⁷
 trojan://FH72359861@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=summary-lemming.rooster465.autos#@hex_proxy ¹
+trojan://FH72359861@www.hcaptcha.com:443?allowInsecure=1&sni=welcome-owl.rooster465.autos#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://HC04361579@www.hcaptcha.com:443?fp=chrome#🐦‍🔥98@oneclickvpnkeys
 trojan://HC04361579@www.hcaptcha.com:443/?type=tcp&security=tls&sni=exact-sawfish.rooster465.autos#日本
 trojan://HC04361579@www.hcaptcha.com:443/?type=tcp&security=tls&sni=renewing-ewe.rooster465.autos&allowInsecure=1#🇭🇰HK
@@ -102,10 +100,7 @@ trojan://MiTiVPN@www.hcaptcha.com:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN--
 trojan://MiTiVPN@www.hcaptcha.com:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/dde---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://MiTiVPN@www.hcaptcha.com:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-g@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🚀t.me/iProxyChannel
 trojan://ND91608427@www.hcaptcha.com:443?fp=chrome&sni=upright-hamster.rooster465.autos#[25706] - Telegram : @V2All
-trojan://ND91608427@www.hcaptcha.com:443?allowInsecure=1&sni=ace-starling.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://ND91608427@www.hcaptcha.com:443?security=tls&sni=devoted-heron.rooster465.autos&path=/#🇯🇵148629 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://ND91608427@www.hcaptcha.com:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
-trojan://ND91608427@www.hcaptcha.com:443?security=tls&sni=dynamic-grubworm.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://ND91608427@www.hcaptcha.com:443?type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=tls&fp=chrome&sni=classic-gator.rooster465.autos#3🇫🇷@V2RAYNG_IP
 trojan://ON38567014@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
 trojan://PQ05174892@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concise-bass.rooster465.autos#@hex_proxy ⁴
@@ -126,7 +121,6 @@ trojan://PQ05174892@www.hcaptcha.com:443/?type=tcp&security=tls&sni=stable-pytho
 trojan://PQ05174892@www.hcaptcha.com:443?fp=chrome#🍏94@oneclickvpnkeys
 trojan://PQ05174892@www.hcaptcha.com:443?fp=chrome#4🐦‍🔥@oneclickvpnkeys
 trojan://PQ05174892@www.hcaptcha.com:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#Germany 🇩🇪
-trojan://PQ05174892@www.hcaptcha.com:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 trojan://SEYnpOitNLndBhDtkZyeAShl@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-vk.tkbvpcompany.site#@V2ray_Alpha🐌 3
 trojan://Telegram-Config0plus@www.hcaptcha.com:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
 trojan://auto@www.hcaptcha.com:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
@@ -176,13 +170,13 @@ trojan://humanity@www.hcaptcha.com:443?security=tls&sni=www.calmlunch.com&fp=chr
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🦝 5
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@www.hcaptcha.com:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#@configprxy
 trojan://humanity@www.hcaptcha.com:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#@meliproxyy
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Selinc
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2rayng_Fast
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ProxyMtpVPN-46
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigV2RayNG
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#bisto4_service
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rayng3
