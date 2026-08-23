@@ -1,5 +1,5 @@
-# Last Update: 2026-08-23 04:28:54 UTC
-# Total Configs: 306
+# Last Update: 2026-08-23 05:22:02 UTC
+# Total Configs: 313
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -25,6 +25,7 @@ trojan://AE62539071@18.183.135.94:443?fp=chrome&sni=central-jawfish.rooster465.a
 trojan://AE62539071@18.183.178.158:443?fp=chrome&sni=inviting-burro.rooster465.autos#3🍥@oneclickvpnkeys
 trojan://AE62539071@193.169.239.14:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=emerging-weevil.rooster465.autos#The Netherlands 🇳🇱
 trojan://AE62539071@193.169.239.160:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#@hex_proxy ¹
+trojan://AE62539071@194.99.79.189:443?security=tls&sni=humorous-parakeet.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://AE62539071@34.221.30.108:443?fp=chrome&sni=humorous-hawk.rooster465.autos#🍥88@oneclickvpnkeys
 trojan://AE62539071@52.198.117.121:443?fp=chrome&sni=relevant-cicada.rooster465.autos#5🍥@oneclickvpnkeys
 trojan://AE62539071@89.39.70.238:443?fp=chrome&sni=present-warthog.rooster465.autos#🧮10@oneclickvpnkeys
@@ -32,7 +33,12 @@ trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&headerType=none&fp=
 trojan://AE62539071@89.39.70.238:443?type=tcp&security=tls&headerType=none&sni=present-warthog.rooster465.autos&insecure=0&allowInsecure=0#@meliproxyy
 trojan://AE62539071@89.39.70.9:443?sni=whole-woodcock.rooster465.autos#🍥2@oneclickvpnkeys
 trojan://AE62539071@89.39.70.9:443?type=tcp&security=tls&headerType=none&sni=whole-woodcock.rooster465.autos&insecure=0&allowInsecure=0#configprxy
-trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
+trojan://AE62539071@enough-basilisk.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+trojan://AE62539071@magical-kodiak.rooster465.autos:443?security=tls&sni=magical-kodiak.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
+trojan://AE62539071@relative-locust.rooster465.autos:443?allowInsecure=1#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+trojan://AE62539071@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos&type=tcp&path=/&allow_insecure=1#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
+trojan://AE62539071@thorough-falcon.rooster465.autos:443?allowInsecure=1#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://EQ30679154@assuring-werewolf.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#新加坡-09
@@ -43,18 +49,16 @@ trojan://EQ30679154@willing-eagle.rooster465.autos:443/?type=tcp&security=tls&fp
 trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#vpnsal
 trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 trojan://FH72359861@3.253.78.205:443/?type=tcp&security=tls&sni=balanced-heron.rooster465.autos&fp=chrome#爱尔兰
-trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://FH72359861@52.195.225.156:443?fp=chrome&sni=many-pangolin.rooster465.autos#🧮86@oneclickvpnkeys
 trojan://FH72359861@54.180.158.231:443/?type=tcp&security=tls&sni=precise-locust.rooster465.autos&fp=chrome#韩国
 trojan://FH72359861@89.39.70.120:443/?type=tcp&security=tls&sni=pro-crane.rooster465.autos#channel_@networld_vpn
 trojan://FH72359861@89.39.70.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pro-crane.rooster465.autos#@hex_proxy ⁶
 trojan://FH72359861@89.39.70.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pro-crane.rooster465.autos#@meliproxyy
 trojan://FH72359861@89.39.70.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pro-crane.rooster465.autos#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
-trojan://FH72359861@91.199.84.120:443?type=tcp&security=tls&sni=dynamic-grubworm.rooster465.autos#🇭🇰150026 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://FH72359861@modern-bedbug.rooster465.autos:443?allowInsecure=1&sni=modern-bedbug.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
-trojan://FH72359861@natural-swan.rooster465.autos:443?allowInsecure=1#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
+trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1&sni=primary-leech.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Netherlands 🇳🇱
 trojan://HC04361579@exact-sawfish.rooster465.autos:443/?type=tcp&security=tls&sni=exact-sawfish.rooster465.autos#日本
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#TEL;Father_vpn
@@ -86,9 +90,13 @@ trojan://MiTiVPN@199.232.237.245:443?type=ws&security=tls&path=/---@MiTiVPN---@M
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s2z-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=default.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@proxytmproxy@|شما هم گرمتو
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-g@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s44-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=react.dev&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@proxyserverpanel@ - LINE 3 -🛣️
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-g@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s4k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=react.dev&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@proxytmproxy@ - SKS 2 -🥌
+trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&sni=ace-starling.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#@hex_proxy ³
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://ND91608427@fr1.levikogjgfdd.ir:443?type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=tls&fp=chrome&sni=classic-gator.rooster465.autos#3🇫🇷@V2RAYNG_IP
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
 trojan://PQ05174892@13.159.17.90:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=outgoing-cockatoo.rooster465.autos#vpnsal
 trojan://PQ05174892@13.192.168.51:443/?type=tcp&security=tls&sni=learning-leopard.rooster465.autos&fp=chrome#T.me/Vpn_Mafia 🇯🇵
@@ -102,7 +110,6 @@ trojan://PQ05174892@89.39.70.64:443?security=tls&sni=actual-aardvark.rooster465.
 trojan://PQ05174892@composed-sheep.rooster465.autos:443/?type=tcp&security=tls&sni=composed-sheep.rooster465.autos&allowInsecure=1#新加坡
 trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&sni=fleet-pony.rooster465.autos&allowInsecure=1#新加坡
 trojan://PQ05174892@mature-lamprey.rooster465.autos:443?fp=chrome#🍥90@oneclickvpnkeys
-trojan://PQ05174892@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&fp=chrome&type=tcp&path=/#🇳🇱150029 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://PQ05174892@stable-python.rooster465.autos:443/?type=tcp&security=tls&sni=stable-python.rooster465.autos&allowInsecure=1#新加坡
 trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?fp=chrome#🧮88@oneclickvpnkeys
 trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
@@ -155,6 +162,7 @@ trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Selinc
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigV2RayNG
+trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁶
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rayngzendegimamad🕊️
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 💛
@@ -171,7 +179,6 @@ trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2rayng3
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayng3
 trojan://humanity@45.130.125.126:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rayng3
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@gr3.levikogjgfdd.ir:443?security=tls&fp=chrome&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#2 🇩🇪 @V2RAYNG_IP
