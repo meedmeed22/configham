@@ -1,5 +1,5 @@
-# Last Update: 2026-09-04 00:35:19 UTC
-# Total Configs: 234
+# Last Update: 2026-09-04 05:18:07 UTC
+# Total Configs: 228
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -223,18 +223,12 @@ trojan://mitivpn@www.hcaptcha.com:443?path=https://chatgpt.com&security=tls&alpn
 trojan://mitivpn@www.hcaptcha.com:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
-trojan://humanity@www.hcaptcha.com:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40FreakConfig%3A%3AXX
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
-trojan://humanity@www.hcaptcha.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%3E%3E%40v2nodes%3A%3AFR
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40FreakConfig%3A%3AXX
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AXX
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40prrofile_purple%3A%3AXX
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%3E%3E%40freeland8%3A%3ANL
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%3E%3E%40freeland8%3A%3ANL
-trojan://NQ26071394@www.hcaptcha.com:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-0179
-trojan://a2dc172b-cd95-45a5-a999-3f7e8d1a1eab@www.hcaptcha.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0195
-trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@www.hcaptcha.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0224
+trojan://LcICDcp%21jD9TFV%24NbH@www.hcaptcha.com:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://MiTiVPN@www.hcaptcha.com:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://humanity@www.hcaptcha.com:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
+trojan://CF68213490@www.hcaptcha.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.39-0185
+trojan://a2dc172b-cd95-45a5-a999-3f7e8d1a1eab@www.hcaptcha.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0201
+trojan://NQ26071394@www.hcaptcha.com:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.249.3-0212
+trojan://NQ26071394@www.hcaptcha.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.69-0218
+trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@www.hcaptcha.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0241
+trojan://CF68213490@www.hcaptcha.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.57-0265
