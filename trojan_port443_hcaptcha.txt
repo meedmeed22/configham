@@ -1,10 +1,9 @@
-# Last Update: 2026-09-09 23:43:15 UTC
-# Total Configs: 386
+# Last Update: 2026-09-10 02:26:17 UTC
+# Total Configs: 385
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
 
-trojan://humanity@www.hcaptcha.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 trojan://0000@www.hcaptcha.com:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#کانال تلگرام : Free_VPN_CH@
 trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@www.hcaptcha.com:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&path=/trojan-ws&security=tls&insecure=0&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&allowInsecure=0&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app#[ 🇩🇪 ] | @Cfox_SerVer
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@www.hcaptcha.com:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#@KAFING_2
