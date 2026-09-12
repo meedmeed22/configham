@@ -1,4 +1,4 @@
-# Last Update: 2026-09-11 23:44:50 UTC
+# Last Update: 2026-09-12 02:28:28 UTC
 # Total Configs: 425
 # Filter: Port 443 only (Original addresses)
 #============================================================
