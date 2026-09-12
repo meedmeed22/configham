@@ -1,5 +1,5 @@
-# Last Update: 2026-09-12 02:28:28 UTC
-# Total Configs: 425
+# Last Update: 2026-09-12 07:31:27 UTC
+# Total Configs: 424
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
@@ -426,6 +426,5 @@ trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@www.hcaptcha.com:443?security=tls&in
 trojan://LcICDcp%21jD9TFV%24NbH@www.hcaptcha.com:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://MiTiVPN@www.hcaptcha.com:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@www.hcaptcha.com:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
-trojan://FH72359861@www.hcaptcha.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.172.178-0128
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@www.hcaptcha.com:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%B8%F0%9F%87%ACSG-139.177.189.122-0144
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@www.hcaptcha.com:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%BA%F0%9F%87%B8US-45.33.109.70-0237
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@www.hcaptcha.com:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%B8%F0%9F%87%ACSG-139.177.189.122-0157
+trojan://FH72359861@www.hcaptcha.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.172.178-0164
