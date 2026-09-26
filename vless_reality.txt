@@ -1,11 +1,13 @@
-# Last Update: 2026-09-26 15:44:49 UTC
-# Total Configs: 917
-# Valid Configs: 917
-# Invalid Configs: 512
-# Total Processed: 6071
+# Last Update: 2026-09-26 20:37:56 UTC
+# Total Configs: 919
+# Valid Configs: 919
+# Invalid Configs: 513
+# Total Processed: 6067
 #============================================================
 
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#Server%2050
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?Telegram=VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone---VaslZone&mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%40FarazV2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#%40FarazV2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%40v2raybaaz%20%C2%B2
 vless://0101cf76-c6ed-4f44-bb73-7c4063d6b56d@85.208.85.246:443?mode=gun&security=reality&encryption=none&pbk=01w9O08msj4EhPMnDCTaGI86QE9niKgh6JfYrrgAkjU&fp=chrome&type=grpc&serviceName=grpc&sni=gp.x5.ru&sid=5b152274dc22c82a#@irdusti(17)🇷🇺²
