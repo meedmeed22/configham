@@ -1,5 +1,5 @@
-# Last Update: 2026-10-23 00:17:55 UTC
-# Total Configs: 516
+# Last Update: 2026-10-23 05:37:10 UTC
+# Total Configs: 489
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -11,77 +11,61 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.102:443?security=tls&alpn=
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de2.dedushka.top#@v2ray_phoenix
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@VConfing
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@hex_proxy ³
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@hex_proxy ¹
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@hex_proxy ⁵
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@hex_proxy ⁷
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@tootffarangi🍓-13
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#@V2ray_confiig
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#🇩🇪All² | @BigSmoke_Config
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#🇩🇪198403 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#🇩🇪DE-🚀@VPNine1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de10.dedushka.top#[76549] - Telegram : @V2All
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de10.dedushka.top#@v2ray_phoenix
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@tootffarangi🍓-15
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#🇩🇪198377 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?allowInsecure=1#🛸44@oneclickvpnkeys
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de10.dedushka.top#[76547] - Telegram : @V2All
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de10.dedushka.top#@v2ray_phoenix
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@V2ray_Alpha🍶 10
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@meliproxyy
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@tootffarangi🍓
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@vasl_bashim
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#🇩🇪198359 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#@V2ray_Alpha🚒 3
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#Tel-@ProxyMtAlpha🌾 1
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@Nexus_Panell چنل تلگرام
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@hex_proxy ²
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@hex_proxy ⁴
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=&type=tcp&allowInsecure=0#@tootffarangi🍓
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@vpnbaz🎀⁴
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#@ICV2RAY
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#@hex_proxy ⁸
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#@tootffarangi🍓
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#@hex_proxy ⁵
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#@vpnbaz🎀²
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#telegram: @pirozi_ArGaP
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de5.dedushka.top#[76546] - Telegram : @V2All
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de5.dedushka.top#@v2ray_phoenix
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#####@vpnbaz⁴
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#@B2Hub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#@V2ray_Alpha🚒 1
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#@meliproxyy
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#@tootffarangi🍓
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#Tel-@ProxyMtAlpha🌾 2
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#Tel-@ProxyMtAlpha🫠 1
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de6.dedushka.top#@v2ray_phoenix
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#####@vpnbaz³
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@B2Hub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@V2ray_confiig
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@hex_proxy ⁶
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@v2ray313 کانالمون 🎯
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@vpnbaz🎀
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#Tel-@ProxyMtAlpha🍾 1
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#Tel-@ProxyMtAlpha🫀 2
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top#[76687] - Telegram : @V2All
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@V2ray_Alpha🚒 4
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@tootffarangi🍓
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@v2ray313 کانالمون 🐢
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top#🇩🇪198421 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=de6.dedushka.top&alpn=http/1.1&fp=chrome#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=1&sni=de7.dedushka.top#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#####vpnbaz²
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#@B2Hub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#@Nexus_Panell چنل تلگرام
@@ -97,24 +81,26 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&type=tcp&headerType=none#🇩🇪All⁴ | @BigSmoke_Config
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@vpnbaz🎀¹
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#####vpnbaz¹
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@B2Hub
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@meliproxyy
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@tootffarangi🍓
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#YFZ 124 @Outline_Vpn
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de9.dedushka.top#@tootffarangi🍓
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de8.dedushka.top#🇩🇪198550 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?allowInsecure=0&sni=it1.dedushka.top#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#🇱🇻197882 | ⚡️Telegram = t.me/v2ray_configs_pools
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=pl1.dedushka.top#[76550] - Telegram : @V2All
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#@ICV2RAY
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#@VConfing 👁️
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#@vpnbaz³
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#@vpnbaz🏝
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#🇪🇺 @MDvpnSEC
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#💎 @MDvpnSEC
 trojan://50414e45-4c5f-5a45-5553-a0ce99682025@104.21.200.224:443?path=/stream/PANEL_ZEUS/a0ce99682025&security=tls&insecure=0&host=7pzcmuemuf6s.mahdi1395ra.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=7pzcmuemuf6s.mahdi1395ra.workers.dev#🇨🇦197491 | ⚡️Telegram = t.me/v2ray_configs_pools
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🇲🇾 Join+Telegram:@Farah_VPN 🇲🇾
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🇲🇾198529 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
 trojan://6c73b7937b3e44e5982f9d5efa57d8cd@172.67.131.217:443?path=/tr/9LJwNSQPh5UJMu8TbPKBJPtkZWKkYFFl?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=auto-ScaLe-728382.builD-sVc-267891.WoRkeRS.DeV&fp=chrome&type=ws&allowInsecure=0&sni=aUTO-scale-728382.BuiLD-sVc-267891.wORkErs.dEv#@Selinc
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@soskeynets#🇨🇦139770 | ⚡️Telegram = t.me/SOSkeyNET
@@ -122,6 +108,9 @@ trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&head
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn   @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
+trojan://GbeGE_MwDQ_2Q_0b9RgdZd07ChS3mMLz@ir1.wufpel.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bf0264eb50014997.wufpel.ir#@tootffarangi🍓
+trojan://GbeGE_MwDQ_2Q_0b9RgdZd07ChS3mMLz@ir1.wufpel.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bf0264eb50014997.wufpel.ir#🇮🇷198623 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://GbeGE_MwDQ_2Q_0b9RgdZd07ChS3mMLz@ir1.wufpel.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bf0264eb50014997.wufpel.ir#🇮🇷IR-🚀@VPNine1
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#TEL;Father_vpn
 trojan://LcICDcp!jD9TFV$NbH@104.21.29.250:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#[092772]
 trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#@i10VPN¹
@@ -163,7 +152,6 @@ trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&
 trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @EXPRESSVPN_420
 trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran#@configprxy
 trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
-trojan://MiTiVPN@167.82.76.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-37
 trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 trojan://PQ05174892@13.192.168.51:443/?type=tcp&security=tls&sni=learning-leopard.rooster465.autos&fp=chrome#T.me/Vpn_Mafia 🇯🇵
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mfyousheng.nl.eu.org#🇱🇺 | 10
@@ -177,10 +165,8 @@ trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&inse
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#@leviconfigs🪐-26
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@leviconfigs🪐-14
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?path=/0962&security=tls&alpn=http/1.1&insecure=0&host=nimm.mpd.cc.cd.&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd.#@v2ray313 کانالمون 🔥
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#@v2ray313 کانالمون 🌙
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#@v2ray313 کانالمون 🔥
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#Channel : @Daily_Configs
@@ -190,6 +176,7 @@ trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#چنل عضو شو @v2ra_config
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#چنل عضو شو @v2ra_config
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#2
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#6
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#####@vpnbaz⁵
@@ -204,18 +191,20 @@ trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#1
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#8
-trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3, h2, http/1.1&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#🇩🇪All¹¹ | @BigSmoke_Config
 trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3, h2, http/1.1&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#🇩🇪All⁵ | @BigSmoke_Config
 trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_confiig
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha🍨 10
-trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
-trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@tootffarangi🍓
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#vpnsal
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦TM (@AZARBAYJAB1)
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🩵⇝ @v2mystery جوین شو قطع نشی💠
 trojan://humanity@141.101.115.104:443?allowInsecure=1&alpn=http/1.1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🛸36@oneclickvpnkeys
 trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+trojan://humanity@144.31.205.106:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha🕌 3
+trojan://humanity@144.31.205.106:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha🕌 4
+trojan://humanity@144.31.205.106:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
+trojan://humanity@144.31.205.106:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇩🇪198557 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@148.253.212.42:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@v2rayng3
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@172.64.145.133:443?security=tls&sni=www.pleadcourt.org&fp=unsafe&type=ws&host=www.pleadcourt.org&path=/assignment&fragment=null,null,tlshello,0&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"},"type":"fragment"},{"settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"},"type":"fragment"}]}#🇩🇪All³ | @BigSmoke_Config
@@ -239,7 +228,6 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&f
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#@v2ray_phoenix
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MTMVPN
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#kurdconfig
@@ -265,9 +253,7 @@ trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PL
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱@FreakConfig
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🍨 4
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@irdusti(44)🇫🇷
-trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#vpnsal
-trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@bored_vpn
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@bored_vpn
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 🚀
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@mehrosaboran
@@ -297,9 +283,8 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&i
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha🌼 3
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2rayng_Fast
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@tootffarangi🍓
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@vasl_bashim
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦198449 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#YFZ 133 @Outline_Vpn
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#@ICV2RAY
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#@IRAN_V2RAY1 🌟
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#@v2ray313 کانالمون 🌸
@@ -313,7 +298,6 @@ trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---mehrosaboran&s
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 🌙
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#Tel-@ProxyMtAlpha🫀 9
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.calmlunch.com&path=//assignment#✅  @vistav2ray کانال ما ✅
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.pleadcourt.org&path=/assignment#𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : @𝐃𝐚𝐢𝐥𝐲_𝐂𝐨𝐧𝐟𝐢𝐠𝐬
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#@v2ray_phoenix
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#@IRAN_V2RAY1 🌟
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#برای اتصال دائمی جوین شو🥏 TelegramID ⌲v2ray_configs_pools 🪩
@@ -325,9 +309,7 @@ trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🧆 10
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@meliproxyy
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#@v2ray_phoenix
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@V2ray_Alpha🍨 11
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@meliproxyy
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#vpnsal
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#برای اتصال دائمی جوین شو🥏 TelegramID ⌲v2ray_configs_pools 🪩
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
@@ -337,30 +319,26 @@ trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@203.202.232.211:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@Shh_Proxy-New⁵
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🧆 3
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
-trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@tootffarangi🍓
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 💚
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 🧩
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 💚
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@configprxy
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@hex_proxy ⁵
 trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#vpnsal
-trojan://humanity@31.57.190.40:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇲🇪198428 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@tootffarangi🍓
 trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@v2raybaaz
-trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#telegram: @pirozi_ArGaP
-trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇲🇪198452 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@31.77.126.2:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@v2ray313 کانالمون 💎
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🕌 5
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Alpha🧆 2
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@tootffarangi🍓
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@ICV2RAY
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Shh_Proxy-New⁵
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
-trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇫🇮198430 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&type=ws&sni=www.calmlunch.com#@v2ray_phoenix
 trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_confiig
-trojan://humanity@57.128.179.254:443?host=www.volumeroot.com&path=/assignment&sni=www.volumeroot.com&type=ws#🛕94@oneclickvpnkeys
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY0
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha🤒 12
@@ -371,6 +349,7 @@ trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&inse
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@v2raybaaz
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Telegram:@v2rayng3
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#YFZ 140 @Outline_Vpn
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY
 trojan://humanity@94.158.219.126:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@v2ray313 کانالمون  💨
@@ -409,7 +388,6 @@ trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece2
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون ♥️
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#@Capoit
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#@B2Hub
-trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#@mehrosaboran
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#@v2ray313 کانالمون 🌙
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@appsooner کانال تلگرام 🕊️
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون 😇
@@ -424,13 +402,11 @@ trojan://mitivpn@151.101.56.56:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarksh
 trojan://mitivpn@151.101.56.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️4
 trojan://mitivpn@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️3
 trojan://mitivpn@151.101.56.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Tarkshodeh 🇧🇿
-trojan://mitivpn@167.82.64.46:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=firefox.com#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#@v2ray313 کانالمون 💌
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#@v2ray313 کانالمون 💚
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@𝗠𝗲𝘁𝗶𝗩𝗜𝗣⚡🇩🇪⚡•1•
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون ⭐
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 🌸
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@mehrosaboran
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 🚀
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#Channel : @v2ray_configs_pools
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@bored_vpn
@@ -465,7 +441,6 @@ trojan://mitivpn@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarks
 trojan://mitivpn@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Tarkshodeh 🇧🇿
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#@v2ray313 کانالمون 🤍
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#@v2ray313 کانالمون 🩵
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ViP1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#🇺🇸198361 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@B2Hub
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@Capoit
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@𝗠𝗲𝘁𝗶𝗩𝗜𝗣⚡🇩🇪⚡•2•
@@ -475,7 +450,6 @@ trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 🔥
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=@prrofile_purple | ViP ⚡&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 😀
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@appsooner کانال تلگرام 🕊️
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@mehrosaboran
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون ⭐
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@bored_vpn
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#@mehrosaboran
@@ -484,7 +458,6 @@ trojan://mitivpn@199.232.78.188:443?path=@rzea8pppooopppppppp&security=tls&alpn=
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram 🆔@Cnetvpn
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇬🇧@AZARBAYJAB1
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://mitivpn@b2n.ir:443?host=de.mitivpn.in.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=de.mitivpn.in.net&type=ws#🛕91@oneclickvpnkeys
 trojan://mitivpn@b2n.ir:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#telegram @mtmvpn 2
 trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#@Shh_Proxy
 trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#@Shh_Proxy-New¹
