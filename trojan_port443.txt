@@ -1,5 +1,5 @@
-# Last Update: 2026-10-25 02:36:01 UTC
-# Total Configs: 475
+# Last Update: 2026-10-25 07:58:29 UTC
+# Total Configs: 473
 # Filter: Port 443 only (Original addresses)
 #============================================================
 
@@ -469,12 +469,10 @@ trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&head
 trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://MiTiVPN@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-155.138.138.2-4786
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.33-0062
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.32-0060
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#%F0%9F%87%B1%F0%9F%87%BBLV-94.140.112.22-0174
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?security=tls&sni=it1.dedushka.top#%F0%9F%87%B7%F0%9F%87%B4RO-92.42.100.132-0175
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AADE-188.241.241.200-0176
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1PL-31.133.0.182-0177
-trojan://ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz@219.76.13.175:443?security=tls&sni=python.protocolbuffer.com#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.175-0020
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top#%F0%9F%87%A9%F0%9F%87%AADE-188.241.241.122-0190
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.32-0092
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.33-0091
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#%F0%9F%87%B1%F0%9F%87%BBLV-94.140.112.22-0214
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?security=tls&sni=it1.dedushka.top#%F0%9F%87%B7%F0%9F%87%B4RO-92.42.100.132-0215
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AADE-188.241.241.200-0216
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1PL-31.133.0.182-0217
+trojan://ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz@219.76.13.175:443?security=tls&sni=python.protocolbuffer.com#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.175-0218
