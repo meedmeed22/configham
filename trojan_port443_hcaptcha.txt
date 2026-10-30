@@ -1,9 +1,10 @@
-# Last Update: 2026-10-30 03:49:39 UTC
-# Total Configs: 668
+# Last Update: 2026-10-30 10:39:33 UTC
+# Total Configs: 676
 # Filter: Port 443 only (Address changed to www.hcaptcha.com)
 # Note: All addresses have been changed to www.hcaptcha.com
 #============================================================
 
+trojan://humanity@www.hcaptcha.com:443?security=tls&sni=www.trusteeforward.com&fp=firefox&alpn=http%2F1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#Channel%20%3A%20%40Daily_Configs
 trojan://humanity@www.hcaptcha.com:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#🤖100@ConfigV2RayNG
@@ -659,16 +660,23 @@ trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@www.hcaptcha.com:443?security=tls&in
 trojan://LcICDcp%21jD9TFV%24NbH@www.hcaptcha.com:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://MiTiVPN@www.hcaptcha.com:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@www.hcaptcha.com:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.212-0186
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.54-0148
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.23-0146
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.176-0165
-trojan://dba20dcb635e430fa4d3bfc303a149d2@www.hcaptcha.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.32-0172
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.81-0188
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.42-0191
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.65-0189
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0174
-trojan://f0eb8c92ce8946aaba856569cff1a16b@www.hcaptcha.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.33-0310
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.132-0196
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.114-0187
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.166-0190
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.176-0193
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.54-0197
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.23-0201
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.81-0192
+trojan://f0eb8c92ce8946aaba856569cff1a16b@www.hcaptcha.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.33-0140
+trojan://dba20dcb635e430fa4d3bfc303a149d2@www.hcaptcha.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.32-0242
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.212-0143
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.15-2853
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.42-0185
+trojan://Trojan@www.hcaptcha.com:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-155.138.138.2-5637
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.65-0184
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0188
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.7-0212
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.113-0565
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.81-0211
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.166-0204
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.114-0205
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.132-0203
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=api.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.244-0528
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@www.hcaptcha.com:443?security=tls&sni=learn.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.166-0527
