@@ -1,12 +1,10 @@
-# Last Update: 2026-11-05 05:03:16 UTC
-# Total Configs: 1129
-# Valid Configs: 1129
+# Last Update: 2026-11-05 13:57:50 UTC
+# Total Configs: 1127
+# Valid Configs: 1127
 # Invalid Configs: 544
-# Total Processed: 6251
+# Total Processed: 6249
 #============================================================
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&security=reality&fm=AhmadV2ray&type=tcp&sni=zsit.eu-cdn294.com&flow=xtls-rprx-vision&headerType=none&encryption=none&sid=cd2d53510b4df2a8&fp=chrome&spx=/AhmadV2ray#United+States
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#%40FarazV2ray%20
 vless://011d2d7b-621c-4640-ac85-4bbe626d8db0@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🇹🇷 @UpsetVPN
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@195.189.97.12:443?mode=gun&security=reality&encryption=none&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=chrome&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#@Tarkshodeh 🇸🇻
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.186.112:443?security=reality&encryption=none&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=974acf45#@Tarkshodeh 🇸🇻
