@@ -1,8 +1,8 @@
-# Last Update: 2026-11-19 15:13:50 UTC
+# Last Update: 2026-11-20 00:16:51 UTC
 # Total Configs: 995
 # Valid Configs: 995
 # Invalid Configs: 700
-# Total Processed: 5918
+# Total Processed: 5917
 #============================================================
 
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpnù&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#🇺🇸 | تلگرام: @IRJetConfig #RK
